@@ -1,0 +1,84 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "showInteractive": "Show Interactive",
+    "interactiveTitle": "",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_drop_down.css",
+      "interactives/05_07_03_drop/styles.css"
+    ],
+    "copyright": [
+      "Shutterstock"
+    ],
+    "modal": {
+      "directions": "Using the image, complete the sentence with the correct grammar phrase or structure.",
+      "title": "Instructions"
+    }
+  },
+  "body": [
+    [
+      {
+        "type": "fitb",
+        "quiz": "<img src='interactives/05_07_03_drop/intmedia/img_1.jpg' alt='A man casting his fishing net'><span class='fortv'>A man casting his fishing net</span>  <span lang='zh-Hans'>这里的人们*_喜欢打猎*_喜欢捕鱼。 </span>",
+        "options": [
+          {
+            "answer": "<span lang='zh-Hans'>既</span>",
+            "options": [
+              "<span lang='zh-Hans'>就</span>",
+              "<span lang='zh-Hans'>最</span>",
+              "<span lang='zh-Hans'>是</span>"
+            ]
+          },
+          {
+            "answer": "<span lang='zh-Hans'>也</span>",
+            "options": [
+              "<span lang='zh-Hans'>有</span>",
+              "<span lang='zh-Hans'>在</span>",
+              "<span lang='zh-Hans'>大</span>"
+            ]
+          }
+        ],
+        "chances": 2,
+        "correctHeading": "Correct",
+        "correct": "You got it! The completed sentence is: <span lang='zh-Hans'>这里的人们<strong>既</strong>喜欢打猎<strong>也</strong>喜欢捕鱼。</span> Zhèlǐ de rénmen <strong>jì</strong> xǐhuān dǎliè <strong>yě</strong> xǐhuān bǔyú. (People here like <strong>both</strong> hunting <strong>and</strong> catching fish.)",
+        "incorrectHeading": "Incorrect",
+        "incorrect": "Oops…Try again. You can do it!",
+        "failedHeading": "Not quite, but you'll get it soon",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "fitb",
+        "quiz": "<img src='interactives/05_07_03_drop/intmedia/img_2.jpg' alt='A man holding a large fish'><span class='fortv'>A man holding a large fish</span> <span lang='zh-Hans'>他*_河 *_带回了一条鱼。</span>",
+        "options": [
+          {
+            "answer": "<span lang='zh-Hans'>从</span>",
+            "options": [
+              "<span lang='zh-Hans'>天</span>",
+              "<span lang='zh-Hans'>大</span>",
+              "<span lang='zh-Hans'>人</span>"
+            ]
+          },
+          {
+            "answer": "<span lang='zh-Hans'>里</span>",
+            "options": [
+              "<span lang='zh-Hans'>是</span>",
+              "<span lang='zh-Hans'>最</span>",
+              "<span lang='zh-Hans'>要</span>"
+            ]
+          }
+        ],
+        "chances": 2,
+        "correctHeading": "Correct",
+        "correct": "You got it! The completed sentence is: <span lang='zh-Hans'>他<strong>从</strong>河<strong>里</strong>带回了一条鱼。</span> Tā <strong>cóng</strong> hé lǐ <strong>dài</strong> guí le yītiáo yú. (He brought back a fish <strong>from</strong> the river.)",
+        "incorrectHeading": "Incorrect",
+        "incorrect": "Oops…Try again. You can do it!",
+        "failedHeading": "Not quite, but you'll get it soon",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}

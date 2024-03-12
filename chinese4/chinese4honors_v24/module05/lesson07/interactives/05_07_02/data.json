@@ -1,0 +1,120 @@
+{
+  "config": {
+    "src": "quizmo",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_mc_qus.css",
+      "interactives/05_07_02/styles.css"
+    ],
+    "intMedia": "interactives/05_07_02/intmedia/",
+    "interactiveTitle": "",
+    "showInteractive": "Show Interactive",
+    "copyright": [
+      "Shutterstock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Read or listen to each word or phrase, then complete the multiple-choice question that follows."
+      },
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_07_02/intmedia/to_hunt.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "to_hunt.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>打猎</span> dǎliè (to hunt) "
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what does the <strong>first</strong> character mean?</p>",
+        "answer": "To hit",
+        "options": [
+          "To eat",
+          "To find",
+          "To hide"
+        ],
+        "correct": "Terrifically done! In the word <span lang='zh-Hans'>打猎</span> dǎliè (to hunt), the first character, <span lang='zh-Hans'>打</span> dǎ, means \"to hit\" as a verb, and the second character, <span lang='zh-Hans'>猎</span> liè, by itself, means \"to hunt.\" You’ve got it!",
+        "incorrect": "Very close. Listen to the audio several times to identify the meaning of the word as a whole, and then break it down and consider the meaning of its first character. You can do it! ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_07_02/intmedia/fisherman.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "fisherman.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>渔民</span> yúmín (fisherman)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, where can one <strong>most likely</strong> find the type of people indicated by the word in the audio?</p>",
+        "answer": "On a boat",
+        "options": [
+          "On a horse",
+          "On a train",
+          "On an airplane"
+        ],
+        "correct": "You nailed it! The word <span lang='zh-Hans'>渔民</span> yúmín means \"fisherman,\" and you can most likely find fishermen on a boat. Very nicely done!",
+        "incorrect": "Oops. Listen to the word again to identify the meaning of the word, and then consider where you can most likely see the type of people indicated by it.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>捕鱼</span> bǔyú"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>What does the <strong>second</strong> character in the word presented mean?</p>",
+        "answer": "Fish",
+        "options": [
+          "Horse",
+          "Chicken",
+          "Turtle"
+        ],
+        "correct": "You got it! In the word <span lang='zh-Hans'>捕鱼</span> bǔyú (to catch fish), the first character, <span lang='zh-Hans'>捕</span> bǔ, means \"to catch,\" and the second character <span lang='zh-Hans'>鱼</span> yú means \"fish.\" Totally awesome!",
+        "incorrect": "Not quite. Listen to the audio several times to identify the meaning of the word as a whole, and then break it down and consider the meaning of its second character.  ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "config",
+        "customView": "interactives/05_07_02/customview_imgbtn.htm"
+      },
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>农民</span> nóngmín"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Which image <strong>best</strong> matches the word presented?</p>",
+        "answer": "<span class='fortv'>A young farmer carrying a basket of vegetables</span><img src='interactives/05_07_02/intmedia/img_2.jpg' alt='A young farmer carrying a basket of vegetables' class='border center-block'>",
+        "options": [
+          "<span class='fortv'>A firefighter standing in front of a firetruck</span><img src='interactives/05_07_02/intmedia/img_1.jpg' alt='A firefighter standing in front of a firetruck' class='border center-block'>",
+          "<span class='fortv'>A doctor standing in his office</span><img src='interactives/05_07_02/intmedia/img_3.jpg' alt='A doctor standing in his office' class='border center-block'>",
+          "<span class='fortv'>A technician checking an air conditioner</span><img src='interactives/05_07_02/intmedia/img_4.jpg' alt='A technician checking an air conditioner' class='border center-block'>"
+        ],
+        "correct": "Job nicely done! The word <span lang='zh-Hans'>农民</span> nóngmín means \"farmer,\" and you’ve selected the image that matches this word. Way to go!",
+        "incorrect": "Not quite. First you need to identify the meaning of the word, and then identify the image that matches it. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}
