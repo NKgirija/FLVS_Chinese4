@@ -1,0 +1,96 @@
+.fevng_timeline .timelineResponsive .date {
+  border: none;
+  height: 50px;
+  margin-bottom: 30px;
+  padding: 0px;
+  margin-top: -87px;
+  margin-left: 0px;
+  line-height: 50px;
+  text-align: center;
+}
+.fevng_timeline .timelineResponsive .content.il_well .imageHolder {
+  background-color: transparent;
+  margin-top: 8px;
+}
+.fevng_timeline .timelineResponsive .copy{
+  display: none;
+}
+.fevng_timeline .timelineResponsive .summary {
+  margin-top: 10px;
+  padding: 5px 10px;
+  min-height: 120px;
+}
+.fevng_timeline .timelineResponsive h2.popTitle{
+  margin-top: 35px;
+}
+.fevng_timeline .timelineResponsive .line {
+  background-color: #2E2D50;
+}
+.fevng_timeline .timelineResponsive .il_textversion li {
+  list-style: none;
+  background-color: transparent;
+  padding: 10px 10px 10px 0px;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  box-shadow: none;
+}
+.fevng_timeline .il_textversion h4.ng-binding {
+  padding: 0px;
+  color: #454545;
+  text-align: left;
+  text-shadow: none;
+  background: transparent;
+  border-radius: 10px;
+}
+.fevng_timeline .timelineResponsive h2.il_int_title{
+  z-index: 900;
+}
+.fevng_timeline .timelineResponsive .il_textversion h2.il_int_title {  
+    margin: 0px auto !important;
+    padding: 5px !important;
+    font-size: 20px !important;
+    border-radius: 0px;
+}
+.fevng_timeline .il_copyrightDisplay { 
+  /* margin-top: 30px;
+  margin-left: 0px; */
+  margin-top: -15px;
+  margin-left: -10px;
+  z-index: 999;
+}
+.fevng_timeline .il_copyrightDisplay::after {
+  bottom: 100%;
+  left: 8%;
+}
+.fevng_timeline .il_copyrightDisplay ul li {
+   background-color:transparent ;
+   box-shadow: none;
+}
+.fevng_timeline .timelineResponsive button.il_copyright {
+  top: 10px;
+  left: 5px;
+}
+.fevng_timeline .il_copyrightDisplay ul {
+  margin: 5px auto; 
+  padding: 0px;
+  list-style: none;
+}
+.fevng_timeline .il_modal-backdrop {
+  height: 110% !important;  
+}
+.fevng_timeline .il_btn, .fevng_timeline a.print{
+  color: #2E2E2E !important;
+}
+.fevng_timeline .il_textversion .il_int_title{
+  line-height: normal;
+}
+.fevng_timeline h2.il_int_title{
+  margin: 20px 0 -30px -21px !important;
+  padding: 6px !important;
+}
+.fevng_timeline .timelineResponsive .sliderHolder{
+  padding-top: 7px;
+}

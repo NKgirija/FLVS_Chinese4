@@ -1,0 +1,27 @@
+/*======================================
+
+CSS DOCUMENT FOR ALL fonts to embed
+
+======================================*/
+
+/*------------ this is the font used for glyphicons, do not remove unless you do not want to use them ------------*/
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot');/* IE9 Compat Modes */
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  		url('../fonts/glyphicons-halflings-regular.woff') format('woff'), /* Modern Browsers */
+		url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.eot?v=4.7.0');
+    src: url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('//cdn.flvs.net/course_view/1_0/dist/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*------------------------------------------------------------------------------------------------------------------*/
+
+

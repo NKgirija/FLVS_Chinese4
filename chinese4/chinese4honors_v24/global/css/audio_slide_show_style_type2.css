@@ -1,0 +1,141 @@
+.fev_audio_slide .int_container {
+    background: url(intmedia/whiteboard_bg.png) center bottom no-repeat;
+    min-height: 400px;
+    width: 630px;
+}
+
+.fev_audio_slide .myButtonBar {
+    bottom: 25px;
+}
+
+.fev_audio_slide .txtContainer div:after {
+    content: none
+}
+
+/* .imgContainer{
+    display: none;
+} */
+.fev_audio_slide button.il_copyright_right {
+    top: 20px;
+    right: 20px;
+}
+
+.fev_audio_slide .txtContainer {
+    width: 90%;
+    left: 30px;
+    top: 15px;
+    height: 330px;
+
+}
+
+.fev_audio_slide .txtContainer div {
+    background-color: transparent;
+    color: black;
+    box-shadow: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 325px;
+    width: 100%;
+
+}
+
+.fev_audio_slide .imgContainer {
+    width: 570px;
+    bottom: 0px;
+    top: 5px;
+    left: 20px;
+    height: 330px;
+}
+
+.fev_audio_slide img {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+.fev_audio_slide .audioslideshow h2,
+.fev_audio_slide .audioslideshow .txtContainer div p {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 2px;    
+    text-align: center;
+}
+
+.fev_audio_slide .il_copyrightDisplay ul li {
+    background-color: transparent;
+    margin: 0px auto;
+    padding: 5px;
+    box-shadow: none;
+    width: auto;
+}
+
+.fev_audio_slide .il_copyrightDisplay.cright {
+    top: 75px;
+}
+
+.fev_strike {
+    text-decoration: line-through;
+    text-decoration-color: #55544A;
+}
+
+.fev_audio_slide .il_textbtn.il_btn {
+    display: none !important;
+}
+
+.fev_audio_slide {
+    margin-bottom: 0px;
+}
+
+.printIt:hover,
+.printText:hover {
+    background-color: #fff;
+    border-bottom-color: #999;
+    text-decoration: none;
+    border: solid 1px #e8e8e8;
+    border-top: solid 1px #ccc;
+}
+
+a.print {
+    color: #A82E8E;
+}
+
+.fev_title {   
+    font-size: 40px !important;
+    
+}
+.fev_text_center{
+    position: absolute;   
+    top: 47%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width:100%
+}
+.fev_green_text{
+    color:#5e9138;
+    font-weight: bold;   
+}
+.fev_italic{
+    font-style: italic;
+}
+.column{
+    width: 50% !important;
+}
+.fev_left{
+    left:0px
+}
+.fev_right{
+    right:0px
+}
+.fev_underline{
+    text-decoration: underline;
+}

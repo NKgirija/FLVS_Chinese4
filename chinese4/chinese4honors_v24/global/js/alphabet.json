@@ -1,0 +1,40 @@
+{
+  "words": [
+    {
+      "vocab": "א",
+      "written": " אל&#1522;ף",
+      "pronunciation": "aleph",
+      "translation": "",
+      "page": "1.01.02",
+      "image": {
+        "source": "images/aleph_gi.jpg",
+        "alt": "Image of the first Hebrew letter in the alphabet",
+        "class": "showcase border01",
+        "width": "240px",
+        "copyright": "",
+        "caption": ""
+      },
+      "usage": "",
+      "audio": "0_8eaxew4j",
+      "simplyspeak": "א"
+    },
+    {
+      "vocab": "ב",
+      "written": "בּי&#1522;ת",
+      "pronunciation": "bet",
+      "translation": "",
+      "page": "1.01.02",
+      "image": {
+        "source": "images/bet_gi.jpg",
+        "alt": "Image of the second Hebrew letter in the alphabet",
+        "class": "showcase border01",
+        "width": "240px",
+        "copyright": "",
+        "caption": ""
+      },
+      "usage": "",
+      "audio": "0_r9jf95uy",
+      "simplyspeak": "בּ"
+    }
+  ]
+}

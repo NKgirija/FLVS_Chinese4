@@ -1,0 +1,110 @@
+.fev_mcq .viewport {
+    min-height: 550px;
+}
+
+.fev_mcq .viewport img {
+    max-width: 500px;
+    margin: 0 auto;
+    display: block
+}
+
+.fev_mcq .il_question,
+.fev_mcq .il_wb_remaining_words {
+    padding: 10px !important;
+    margin-bottom: 0px;
+}
+
+.fev_mcq .il_mc_options .btn-group .btn.hover,
+.fev_mcq .il_mc_options .btn-group .btn.active, .fev_mcq .btnlink {   
+    color: #2E2E2E !important;
+}
+
+.fev_mcq .il_btns {
+    bottom: 60px;
+}
+
+.fev_mcq button.il_wb_restart_btn {
+    top: 0;
+    right: 0;
+}
+
+.fev_mcq .btn-primary,
+.fev_mcq .il_btn,
+.fev_mcq .btn.btn-default {
+    background: linear-gradient(180deg, #FEA36D 0%, #E87E44 100%) !important;
+    color: #2E2E2E !important;
+}
+.fev_mcq .il_mc_options .btn-group .btn{
+    color: #2E2E2E !important;
+}
+.fev_mcq .il_question.il_mc_options {
+    margin-top: 2px;
+    text-align: center;
+    height: auto;
+
+}
+
+.fev_mcq .interactiveElements .btn {
+    text-align: center !important;
+    margin-bottom: 7px;
+}
+
+.fev_mcq .interactiveElements .btn.imgbtn {
+    width: 44% !important;
+    text-align: center !important;
+    margin-left: 1.5% !important;
+}
+
+.fev_mcq .viewport.il_textversion img {
+    display: none;
+}
+
+.fev_mcq span.fortv,
+.fev_mcq .il_textversion img {
+    display: none;
+}
+
+.fev_mcq .il_textversion .fortv {
+    display: block;
+}
+
+.fev_mcq .il_textversion .fortv {
+    margin-left: 0px;
+}
+
+.fev_mcq .fevmedia .il_question video {
+    height: 30px;
+    width: 290px;
+}
+
+.fev_mcq .il_textversion li.ng-scope span {
+    margin-left: 0px;
+}
+
+.fev_mcq button.il_copyright {
+    top: unset;
+    bottom: 60px;
+}
+
+.fev_mcq .il_copyrightDisplay {
+    bottom: 100px;
+    margin: 0px auto;
+    padding-top: 10px;
+    margin-left: -10px;
+}
+
+.fev_mcq .il_copyrightDisplay:after {
+    border-bottom-color: transparent;
+    border-top-color: #ffffff;
+    border-width: 10px;
+    margin-left: -5px;
+    bottom: -19px;
+}
+
+.fev_mcq .il_copyrightDisplay ul {
+    list-style-type: none;
+}
+
+.fev_mcq audio {
+    width: 90%;
+}

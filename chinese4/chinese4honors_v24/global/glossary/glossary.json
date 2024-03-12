@@ -1,0 +1,801 @@
+{
+    "glossary": [
+        {
+            "chinese": "diànzǐshèbèi (<span lang='zh-Hans'>电子设备</span>)",
+            "english": "electronic device"
+        },
+        {
+            "chinese": "xiǎnshìqì (<span lang='zh-Hans'>显示器</span>)",
+            "english": "monitor"
+        },
+        {
+            "chinese": "jiànpán (<span lang='zh-Hans'>键盘</span>)",
+            "english": "keyboard"
+        },
+        {
+            "chinese": "shǔbiāo (<span lang='zh-Hans'>鼠标</span>)",
+            "english": "mouse"
+        },
+        {
+            "chinese": "ěrjī (<span lang='zh-Hans'>耳机</span>)",
+            "english": "headphones"
+        },
+        {
+            "chinese": "yōudiǎn (<span lang='zh-Hans'>优点</span>)",
+            "english": "advantage"
+        },
+        {
+            "chinese": "quēdiǎn (<span lang='zh-Hans'>缺点</span>)",
+            "english": "disadvantage"
+        },
+        {
+            "chinese": "yúlè (<span lang='zh-Hans'>娱乐</span>)",
+            "english": "entertainment"
+        },
+        {
+            "chinese": "zuòzuòyè (<span lang='zh-Hans'>做作业 </span>)",
+            "english": "to do homework"
+        },
+        {
+            "chinese": "shàngwǎngkè (<span lang='zh-Hans'>上网课</span>)",
+            "english": "to take courses online"
+        },
+        {
+            "chinese": "dǎyìnjī (<span lang='zh-Hans'>打印机</span>)",
+            "english": "printer"
+        },
+        {
+            "chinese": "xiàngjī (<span lang='zh-Hans'>相机</span>)",
+            "english": "camera"
+        },
+        {
+            "chinese": "hùliánwǎng (<span lang='zh-Hans'>互联网</span>)",
+            "english": "Internet"
+        },
+        {
+            "chinese": "lányá (<span lang='zh-Hans'>蓝牙</span>)",
+            "english": "Bluetooth"
+        },
+        {
+            "chinese": "wúxiànwǎngluò (<span lang='zh-Hans'>无线网络</span>)",
+            "english": "Wi-Fi"
+        },
+        {
+            "chinese": "xiānjìn (<span lang='zh-Hans'>先进</span>)",
+            "english": "advanced"
+        },
+        {
+            "chinese": "fāngbiàn (<span lang='zh-Hans'>方便</span>)",
+            "english": "convenience/convenient"
+        },
+        {
+            "chinese": "bāngzhù (<span lang='zh-Hans'>帮助</span>)",
+            "english": "to assist/to help"
+        },
+        {
+            "chinese": "zhìnéng (<span lang='zh-Hans'>智能</span>)",
+            "english": "intelligent"
+        },
+        {
+            "chinese": "diàntī (<span lang='zh-Hans'>电梯</span>)",
+            "english": "elevator"
+        },
+        {
+            "chinese": "diàndòngchē (<span lang='zh-Hans'>电动车</span>)",
+            "english": "electric car"
+        },
+        {
+            "chinese": "shōuyīnjī (<span lang='zh-Hans'>收音机</span>)",
+            "english": "radio"
+        },
+        {
+            "chinese": "dǎohángxìtǒng (<span lang='zh-Hans'>导航系统</span>)",
+            "english": "GPS"
+        },
+        {
+            "chinese": "wúrénjī (<span lang='zh-Hans'>无人机</span>)",
+            "english": "drone"
+        },
+        {
+            "chinese": "shìpínhuìyì (<span lang='zh-Hans'>视频会议</span>)",
+            "english": "video conference"
+        },
+        {
+            "chinese": "ruǎnjiàn (<span lang='zh-Hans'>软件</span>)",
+            "english": "software"
+        },
+        {
+            "chinese": "gǎibiàn (<span lang='zh-Hans'>改变</span>)",
+            "english": "to change"
+        },
+        {
+            "chinese": "réngōnzhìnéng (<span lang='zh-Hans'>人工智能</span>)",
+            "english": "artificial intelligence"
+        },
+        {
+            "chinese": "jiǎnhuà (<span lang='zh-Hans'>简化</span>)",
+            "english": "to simplify"
+        },
+        {
+            "chinese": "jiāoliú (<span lang='zh-Hans'>交流</span>)",
+            "english": "to communicate"
+        },
+        {
+            "chinese": "gǎishàn (<span lang='zh-Hans'>改善</span>)",
+            "english": "to improve"
+        },
+        {
+            "chinese": "zēngjiā (<span lang='zh-Hans'>增加</span>)",
+            "english": "to increase"
+        },
+        {
+            "chinese": "bìmiǎn (<span lang='zh-Hans'>避免</span>)",
+            "english": "to avoid"
+        },
+        {
+            "chinese": "biàndé (<span lang='zh-Hans'>变得</span>)",
+            "english": "to become"
+        },
+        {
+            "chinese": "quēfá (<span lang='zh-Hans'>缺乏</span>)",
+            "english": "to lack"
+        },
+        {
+            "chinese": "dǒngháng (<span lang='zh-Hans'>懂行</span>)",
+            "english": "savvy"
+        },
+        {
+            "chinese": "lǎn (<span lang='zh-Hans'>懒</span>)",
+            "english": "lazy"
+        },
+        {
+            "chinese": "miànduìmiàn (<span lang='zh-Hans'>面对面</span>)",
+            "english": "face-to-face"
+        },
+        {
+            "chinese": "jiànkāng (<span lang='zh-Hans'>健康</span>)",
+            "english": "health/healthy"
+        },
+        {
+            "chinese": "jiǎnchá (<span lang='zh-Hans'>检查</span>)",
+            "english": "to check/to examine"
+        },
+        {
+            "chinese": "tóuyūn (<span lang='zh-Hans'>头晕</span>)",
+            "english": "dizzy"
+        } ,
+        {
+            "chinese": "hùshì (<span lang='zh-Hans'>护士</span>)",
+            "english": "nurse"
+        },
+        {
+            "chinese": "wèishēng (<span lang='zh-Hans'>卫生</span>)",
+            "english": "hygiene"
+        },
+        {
+            "chinese": "kāichǔfāng (<span lang='zh-Hans'>开处方</span>)",
+            "english": "to write a prescription"
+        } ,
+        {
+            "chinese": "yào (<span lang='zh-Hans'>药</span>)",
+            "english": "medicine"
+        },
+        {
+            "chinese": "zhàngdān (<span lang='zh-Hans'>账单</span>)",
+            "english": "bill"
+        },
+        {
+            "chinese": "fèiyòng (<span lang='zh-Hans'>费用</span>)",
+            "english": "cost/expense"
+        } ,
+        {
+            "chinese": "zhìliáo (<span lang='zh-Hans'>治疗</span>)",
+            "english": "treatment/to treat (an illness)"
+        },
+
+        {
+            "chinese": "bǎojiàn (<span lang='zh-Hans'>保健</span>)",
+            "english": "health care"
+        },
+        {
+            "chinese": "yùfáng (<span lang='zh-Hans'>预防</span>)",
+            "english": "to prevent"
+        } ,
+        {
+            "chinese": "cǎoyào (<span lang='zh-Hans'>草药</span>)",
+            "english": "herbal medicine"
+        },
+        {
+            "chinese": "kànbìng (<span lang='zh-Hans'>看病</span>)",
+            "english": "to see a doctor"
+        },
+        {
+            "chinese": "fùjiàn (<span lang='zh-Hans'>复健</span>)",
+            "english": "physical therapy"
+        } ,
+        {
+            "chinese": "piānfāng (<span lang='zh-Hans'>偏方</span>)",
+            "english": "home remedy"
+        },
+        {
+            "chinese": "chángjiàn (<span lang='zh-Hans'>常见</span>)",
+            "english": "common"
+        },
+        {
+            "chinese": "yǒuxiào (<span lang='zh-Hans'>有效</span>)",
+            "english": "effective"
+        } ,
+        {
+            "chinese": "fāshāo (<span lang='zh-Hans'>发烧</span>)",
+            "english": "fever"
+        },
+        {
+            "chinese": "zhèngzhuàng (<span lang='zh-Hans'>症状</span>)",
+            "english": "symptom"
+        },
+        {
+            "chinese": "gǎnjué (<span lang='zh-Hans'>感觉</span>)",
+            "english": "to feel/to sense"
+        },
+        {
+            "chinese": "tǐlì (<span lang='zh-Hans'>体力</span>)",
+            "english": "physical strength"
+        },
+        {
+            "chinese": "jīnglìchōngpèi (<span lang='zh-Hans'>精力充沛</span>)",
+            "english": "energetic"
+        },
+        {
+            "chinese": "bǎochíjiànkāng (<span lang='zh-Hans'>保持健康</span>)",
+            "english": "to stay fit"
+        } ,
+        {
+            "chinese": "chūsè (<span lang='zh-Hans'>出色</span>)",
+            "english": "outstanding"
+        },
+        {
+            "chinese": "kāngfù (<span lang='zh-Hans'>康复</span>)",
+            "english": "to recover"
+        },
+        {
+            "chinese": "quántiānrán (<span lang='zh-Hans'>全天然</span>)",
+            "english": "all-natural"
+        } ,
+        {
+            "chinese": "liáofǎ (<span lang='zh-Hans'>疗法</span>)",
+            "english": "remedy"
+        },
+        {
+            "chinese": "chángshì (<span lang='zh-Hans'>尝试</span>)",
+            "english": "to try"
+        },
+        {
+            "chinese": "liúbítì (<span lang='zh-Hans'>流鼻涕</span>)",
+            "english": "to have a runny nose"
+        } ,
+        {
+            "chinese": "liúhàn (<span lang='zh-Hans'>流汗</span>)",
+            "english": "to sweat"
+        },
+        {
+            "chinese": "kǒukě (<span lang='zh-Hans'>口渴</span>)",
+            "english": "thirsty"
+        },
+        {
+            "chinese": "xūruò (<span lang='zh-Hans'>虚弱</span>)",
+            "english": "weak"
+        } ,
+        {
+            "chinese": "qiángzhuàng (<span lang='zh-Hans'>强壮</span>)",
+            "english": "strong"
+        },
+        {
+            "chinese": "fàngsōng (<span lang='zh-Hans'>放松 </span>)",
+            "english": "to relax"
+        },
+        {
+            "chinese": "jiāolǜ (<span lang='zh-Hans'>焦虑 </span>)",
+            "english": "anxiety/anxious"
+        } ,
+        {
+            "chinese": "xīnqíng (<span lang='zh-Hans'>心情</span>)",
+            "english": "mood"
+        },
+        {
+            "chinese": "hūxī (<span lang='zh-Hans'>呼吸</span>)",
+            "english": "breath/to breathe"
+        },
+        {
+            "chinese": "shēn (<span lang='zh-Hans'>深</span>)",
+            "english": "deep"
+        } ,
+
+
+
+        {
+            "chinese": "gōngdiàn (<span lang='zh-Hans'>宫殿</span>)",
+            "english": "palace "
+        },
+        {
+            "chinese": "tǎ (<span lang='zh-Hans'>塔</span>)",
+            "english": "tower/pagoda"
+        } ,
+        {
+            "chinese": "qiáo (<span lang='zh-Hans'>桥</span>)",
+            "english": "bridge"
+        },
+        {
+            "chinese": "tiānhuābǎn (<span lang='zh-Hans'>天花板 </span>)",
+            "english": "ceiling"
+        },
+        {
+            "chinese": "xíngzhuàng (<span lang='zh-Hans'>形状</span>)",
+            "english": "shape"
+        },
+        {
+            "chinese": "yuánxíng (<span lang='zh-Hans'>圆形</span>)",
+            "english": "round"
+        } ,
+        {
+            "chinese": "zhèngfāngxíng (<span lang='zh-Hans'>正方形</span>)",
+            "english": "square"
+        },
+        {
+            "chinese": "kuān (<span lang='zh-Hans'>宽 </span>)",
+            "english": "wide"
+        },
+        {
+            "chinese": "zhǎi (<span lang='zh-Hans'>窄</span>)",
+            "english": "narrow"
+        },
+        {
+            "chinese": "dǐng (<span lang='zh-Hans'>顶</span>)",
+            "english": "top"
+        } ,
+        {
+            "chinese": "gējù (<span lang='zh-Hans'>歌剧</span>)",
+            "english": "opera"
+        },
+        {
+            "chinese": "wǔtái (<span lang='zh-Hans'>舞台 </span>)",
+            "english": "stage"
+        },
+        {
+            "chinese": "xìjùxìng (<span lang='zh-Hans'>戏剧性</span>)",
+            "english": "dramatic"
+        },
+        {
+            "chinese": "xǐjù (<span lang='zh-Hans'>喜剧</span>)",
+            "english": "comedy/comedic"
+        } ,
+        {
+            "chinese": "bēijù (<span lang='zh-Hans'>悲剧</span>)",
+            "english": "tragedy/tragic"
+        },
+        {
+            "chinese": "biǎoyǎn (<span lang='zh-Hans'>表演 </span>)",
+            "english": "to act/to perform"
+        },
+        {
+            "chinese": "yǎnyuán (<span lang='zh-Hans'>演员</span>)",
+            "english": "actor"
+        },
+        {
+            "chinese": "yǒugǎnqíng (<span lang='zh-Hans'>有感情</span>)",
+            "english": "emotional"
+        } ,
+        {
+            "chinese": "jiéwěi (<span lang='zh-Hans'>结尾</span>)",
+            "english": "ending"
+        },
+        {
+            "chinese": "qíngjié (<span lang='zh-Hans'>情节 </span>)",
+            "english": "plot"
+        },
+        {
+            "chinese": "shùzì (<span lang='zh-Hans'>数字</span>)",
+            "english": "number/digit"
+        },
+        {
+            "chinese": "jiā (<span lang='zh-Hans'>加</span>)",
+            "english": "to add/plus"
+        } ,
+        {
+            "chinese": "jiǎn (<span lang='zh-Hans'>减</span>)",
+            "english": "to subtract/minus"
+        },
+        {
+            "chinese": "chéng (<span lang='zh-Hans'>乘 </span>)",
+            "english": "to multiply"
+        },
+        {
+            "chinese": "chú (<span lang='zh-Hans'>除</span>)",
+            "english": "to divide"
+        },
+        {
+            "chinese": "děngyú (<span lang='zh-Hans'>等于</span>)",
+            "english": "to equal to"
+        } ,
+        {
+            "chinese": "wèntí (<span lang='zh-Hans'>问题</span>)",
+            "english": "problem/question"
+        },
+        {
+            "chinese": "cháng (<span lang='zh-Hans'>长 </span>)",
+            "english": "long"
+        },
+        {
+            "chinese": "duǎn (<span lang='zh-Hans'>短</span>)",
+            "english": "short"
+        },
+        {
+            "chinese": "bùzhòu (<span lang='zh-Hans'>步骤</span>)",
+            "english": "step"
+        } ,
+        {
+            "chinese": "Xīnnián (<span lang='zh-Hans'>新年</span>)",
+            "english": "New Year"
+        },
+        {
+            "chinese": "Gǎn’ēnjié (<span lang='zh-Hans'>感恩节 </span>)",
+            "english": "Thanksgiving"
+        },
+        {
+            "chinese": "Qíngrénjié (<span lang='zh-Hans'>情人节</span>)",
+            "english": "Valentine’s Day"
+        },
+        {
+            "chinese": "zhōuniánjìniànrì (<span lang='zh-Hans'>周年纪念日</span>)",
+            "english": "anniversary"
+        } ,
+        {
+            "chinese": "qiánxī (<span lang='zh-Hans'>前夕</span>)",
+            "english": "eve"
+        },
+        {
+            "chinese": "dàojìshí (<span lang='zh-Hans'>倒计时 </span>)",
+            "english": "countdown"
+        },
+        {
+            "chinese": "jiérì (<span lang='zh-Hans'>节日</span>)",
+            "english": "festival/holiday"
+        },
+        {
+            "chinese": "chǎnghé (<span lang='zh-Hans'>场合 </span>)",
+            "english": "occasion"
+        } ,
+        {
+            "chinese": "rènào (<span lang='zh-Hans'>热闹</span>)",
+            "english": "lively"
+        },
+        {
+            "chinese": "huānlè (<span lang='zh-Hans'>欢乐 </span>)",
+            "english": "joy/joyful"
+        },		
+        {
+            "chinese": "zhùmíng (<span lang='zh-Hans'>著名 </span>)",
+            "english": "famous"
+        },
+        {		
+            "chinese": "làngmàn (<span lang='zh-Hans'>浪漫 </span>)",
+            "english": "romantic"
+        },
+        {		
+            "chinese": "xiànshí (<span lang='zh-Hans'>现实 </span>)",
+            "english": "realistic/reality"
+        },		
+        {
+            "chinese": "shīrén (<span lang='zh-Hans'>诗人 </span>)",
+            "english": "poet"
+        },		
+        {
+            "chinese": "tángcháo (<span lang='zh-Hans'>唐朝 </span>)",
+            "english": "Tang dynasty"
+        },		
+        {
+            "chinese": "yāyùn (<span lang='zh-Hans'>押韵 </span>)",
+            "english": "to rhyme"
+        },		
+        {
+            "chinese": "yōuxiù (<span lang='zh-Hans'>优秀 </span>)",
+            "english": "brilliant"
+        },		
+        {
+            "chinese": "xiángxì (<span lang='zh-Hans'>详细 </span>)",
+            "english": "detailed"
+        },
+        {
+            "chinese": "jiǎnluè (<span lang='zh-Hans'>简略 </span>)",
+            "english": "brief"
+        },
+        { 		
+            "chinese": "miáoxiě (<span lang='zh-Hans'>描写 </span>)",
+            "english": "to describe/description"
+        },
+        {		
+            "chinese": "jiézòu (<span lang='zh-Hans'>节奏 </span>)",
+            "english": "rhythm"
+        },
+        { 		
+            "chinese": "yōuyǎ (<span lang='zh-Hans'>优雅 </span>)",
+            "english": "graceful/elegant"
+        },
+        {		
+            "chinese": "fēnggé (<span lang='zh-Hans'>风格 </span>)",
+            "english": "style"
+        },
+        {		
+            "chinese": "shīcí (<span lang='zh-Hans'>诗词 </span>)",
+            "english": "poetry (in general)"
+        },
+        {		
+            "chinese": "Sòngcháo (<span lang='zh-Hans'>宋朝 </span>)",
+            "english": "Song dynasty"
+        }, 
+        		
+        {
+            "chinese": "zuòzhě (<span lang='zh-Hans'>作者 </span>)",
+            "english": "author"
+        }	,	
+        {
+            "chinese": "zuòpǐn (<span lang='zh-Hans'>作品 </span>)",
+            "english": "(literary/art)work"
+        },
+        {		
+            "chinese": "nánwàng (<span lang='zh-Hans'>难忘 </span>)",
+            "english": "unforgettable/memorable"
+        },
+        {		
+            "chinese": "zhēnguì (<span lang='zh-Hans'>珍贵 </span>)",
+            "english": "valuable/precious"
+        },
+        {		
+            "chinese": "pèifú (<span lang='zh-Hans'>佩服 </span>)",
+            "english": "to admire"
+        },
+        {		
+            "chinese": "géshì (<span lang='zh-Hans'>格式 </span>)",
+            "english": "format"
+        },
+        { 		
+            "chinese": "suíyì (<span lang='zh-Hans'>随意 </span>)",
+            "english": "casual"
+        },
+        {		
+            "chinese": "jìxù (<span lang='zh-Hans'>继续 </span>)",
+            "english": "to continue"
+        },
+        {
+            "chinese": "Yuáncháo (<span lang='zh-Hans'>元朝 </span>)",
+            "english": "Yuan dynasty"
+        },
+        {		
+            "chinese": "gēqǔ (<span lang='zh-Hans'>歌曲 </span>)",
+            "english": "song"
+        },
+        { 		
+            "chinese": "tèdiǎn (<span lang='zh-Hans'>特点 </span>)",
+            "english": "feature/characteristic"
+        },
+        { 		
+            "chinese": "shúxī (<span lang='zh-Hans'>熟悉 </span>)",
+            "english": "familiar"
+        },		
+        {
+            "chinese": "mòshēng (<span lang='zh-Hans'>陌生 </span>)",
+            "english": "unfamiliar"
+        },
+        {		
+            "chinese": "wěidà (<span lang='zh-Hans'>伟大 </span>)",
+            "english": "great"
+        },
+        {		
+            "chinese": "píngfán (<span lang='zh-Hans'>平凡 </span>)",
+            "english": "ordinary"
+        },
+        {		
+            "chinese": "zìrán (<span lang='zh-Hans'>自然 </span>)",
+            "english": "nature/natural"
+        },
+        {		
+            "chinese": "dútè (<span lang='zh-Hans'>独特 </span>)",
+            "english": "unique"
+        },		
+        {
+            "chinese": "xìnì (<span lang='zh-Hans'>细腻 </span>)",
+            "english": "delicate"
+        },
+        {		
+            "chinese": "Zìyóushī (<span lang='zh-Hans'>自由诗 </span>)",
+            "english": "free verse"
+        },
+        {		
+            "chinese": "jìndài (<span lang='zh-Hans'>近代 </span>)",
+            "english": "modern times"
+        },
+        {		
+            "chinese": "biǎodá (<span lang='zh-Hans'>表达 </span>)",
+            "english": "to express"
+        },		
+        {
+            "chinese": "zhǔtí (<span lang='zh-Hans'>主题 </span>)",
+            "english": "theme"
+        },
+        {		
+            "chinese": "àiqíng (<span lang='zh-Hans'>爱情 </span>)",
+            "english": "love"
+        },
+        {		
+            "chinese": "shèhuì (<span lang='zh-Hans'>社会 </span>)",
+            "english": "society"
+        },
+        {		
+            "chinese": "kù (<span lang='zh-Hans'>酷 </span>)",
+            "english": "cool"
+        }
+       
+        ,
+        {		
+            "chinese": "rénmen (<span lang='zh-Hans'>人们</span>)",
+            "english": "people"
+        },
+        {		
+            "chinese": "dìzhèn (<span lang='zh-Hans'>地震</span>)",
+            "english": "earthquake"
+        },
+        {		
+            "chinese": "cháoshī (<span lang='zh-Hans'>潮湿</span>)",
+            "english": "humid"
+        },
+        {		
+            "chinese": "gānzào (<span lang='zh-Hans'>干燥</span>)",
+            "english": "dry"
+        },
+        {		
+            "chinese": "xǔduō (<span lang='zh-Hans'>许多</span>)",
+            "english": "many"
+        },
+        {		
+            "chinese": "yǔyán (<span lang='zh-Hans'>语言</span>)",
+            "english": "language"
+        },
+        {		
+            "chinese": "xiāngsì (<span lang='zh-Hans'>相似</span>)",
+            "english": "similar"
+        },
+        {		
+            "chinese": "bùtóng (<span lang='zh-Hans'>不同</span>)",
+            "english": "different"
+        },
+        {		
+            "chinese": "shǒushì (<span lang='zh-Hans'>首饰</span>)",
+            "english": "jewelry"
+        },
+        {		
+            "chinese": "yín (<span lang='zh-Hans'>银</span>)",
+            "english": "silver"
+        },
+        {		
+            "chinese": "shěng (<span lang='zh-Hans'>省</span>)",
+            "english": "province"
+        },
+        {		
+            "chinese": "suìdào (<span lang='zh-Hans'>隧道</span>)",
+            "english": "tunnel"
+        },
+        {		
+            "chinese": "rèdài (<span lang='zh-Hans'>热带</span>)",
+            "english": "tropic/tropical"
+        },
+        {		
+            "chinese": "zhǎozé (<span lang='zh-Hans'>沼泽</span>)",
+            "english": "swamp"
+        },
+        {		
+            "chinese": "táifēng (<span lang='zh-Hans'>台风</span>)",
+            "english": "typhoon"
+        },
+        {		
+            "chinese": "qìhòu (<span lang='zh-Hans'>气候</span>)",
+            "english": "climate"
+        },
+        {		
+            "chinese": "jíduān (<span lang='zh-Hans'>极端</span>)",
+            "english": "extreme"
+        },
+        {		
+            "chinese": "wēnhé (<span lang='zh-Hans'>温和</span>)",
+            "english": "mild/gentle"
+        },
+        {		
+            "chinese": "wēndù (<span lang='zh-Hans'>温度</span>)",
+            "english": "temperature"
+        },
+        {		
+            "chinese": "rèdù (<span lang='zh-Hans'>热度</span>)",
+            "english": "heat"
+        },     		
+
+        {		
+            "chinese": "cǎoyuán (<span lang='zh-Hans'>草原</span>)",
+            "english": "prairie"
+        },
+        {		
+            "chinese": "shāmò (<span lang='zh-Hans'>沙漠</span>)",
+            "english": "desert"
+        },
+        {		
+            "chinese": "sēnlín (<span lang='zh-Hans'>森林</span>)",
+            "english": "forest"
+        },
+        {		
+            "chinese": "zhàngpeng (<span lang='zh-Hans'>帐篷</span>)",
+            "english": "tent"
+        },
+        {		
+            "chinese": "píngtǎn (<span lang='zh-Hans'>平坦</span>)",
+            "english": "flat"
+        },
+        {		
+            "chinese": "bàofēngxuě (<span lang='zh-Hans'>暴风雪</span>)",
+            "english": "blizzard"
+        },
+        {		
+            "chinese": "zīyuán (<span lang='zh-Hans'>资源</span>)",
+            "english": "resource"
+        },
+        {		
+            "chinese": "kuàngchǎn (<span lang='zh-Hans'>矿产</span>)",
+            "english": "mine/ore"
+        },
+         {		
+            "chinese": "yánshí (<span lang='zh-Hans'>岩石</span>)",
+            "english": "rock"
+        },
+        {		
+            "chinese": "méitàn (<span lang='zh-Hans'>煤炭</span>)",
+            "english": "coal"
+        },
+
+        {		
+            "chinese": "dǎliè (<span lang='zh-Hans'>打猎</span>)",
+            "english": "to hunt"
+        },
+        {		
+            "chinese": "nóngyè (<span lang='zh-Hans'>农业</span>)",
+            "english": "agriculture"
+        },
+        {		
+            "chinese": "nóngmín (<span lang='zh-Hans'>农民</span>)",
+            "english": "farmer"
+        },
+        {		
+            "chinese": "bǔyú (<span lang='zh-Hans'>捕鱼</span>)",
+            "english": "to catch fish"
+        },
+        {		
+            "chinese": "yúmín (<span lang='zh-Hans'>渔民</span>)",
+            "english": "fisherman"
+        },
+        {		
+            "chinese": "gōngyè (<span lang='zh-Hans'>工业</span>)",
+            "english": "industry"
+        },
+        {		
+            "chinese": "zhòng (<span lang='zh-Hans'>重</span>)",
+            "english": "heavy"
+        },
+        {		
+            "chinese": "qīng (<span lang='zh-Hans'>轻</span>)",
+            "english": "light (adjective)"
+        }
+        , {		
+            "chinese": "gōngchǎng (<span lang='zh-Hans'>工厂</span>)",
+            "english": "factory"
+        },
+        {		
+            "chinese": "shàngbān (<span lang='zh-Hans'>上班</span>)",
+            "english": "to go to work"
+        }
+    ]
+}

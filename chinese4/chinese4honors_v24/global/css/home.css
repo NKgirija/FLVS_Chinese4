@@ -1,0 +1,728 @@
+/*======================================
+CSS DOCUMENT FOR HOME PAGE
+======================================*/
+@font-face {
+    font-family: Bitter;
+    src: url('../fonts/Bitter-Regular.ttf');
+}
+
+@font-face {
+    font-family: Bitter-Medium;
+    src: url('../fonts/Bitter-Medium.ttf');
+}
+
+@font-face {
+    font-family: Bitter-MediumItalic;
+    src: url('../fonts/Bitter-MediumItalic.ttf');
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: PollerOne;
+    src: url('../fonts/PollerOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url('../fonts/Poppins-SemiBold.ttf');
+}
+
+
+
+html {
+    min-height: 70vh;
+    height: 100vh;
+    background: #F27053 url(../../global/images/page_bg.png) repeat fixed top left;
+    background-size: contain;
+    overflow-y: visible;
+    scroll-behavior: smooth;
+}
+
+#course_title {
+    display: none;
+}
+
+
+img.course_title {
+    /*width: auto;
+    margin: 5vh auto 0;
+    max-width: 800px;
+    height: 22vh;*/
+    width: auto;
+    margin: 22vh auto 0;
+    max-width: 62%;
+    height: auto;
+    max-height: 25vh;
+}
+
+body {
+    min-height: 100%;
+    background-color: transparent;
+    font-family: sans-serif;
+}
+
+.index_border {
+    border: 10px solid #423B58;
+    min-height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 900;
+    width: 100%;
+}
+
+/*#course_logo {
+	background: url('../images/home/course_title.png') top left no-repeat;
+	background-size: contain;
+	display: block;
+	position: relative;
+	height: 1366px;
+	width: 768px;
+	margin: 0 auto 45px auto;
+}*/
+
+#course_logo img {
+    width: 100%;
+    height: 100%;
+}
+
+#bg {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+}
+
+#bg img {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}
+
+#content {
+    padding: 0 0 100px 0 !important;
+    margin: 0 !important;
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    margin-top: 0;
+}
+
+.bg_txt {
+    position: relative;
+    top: 0;
+    width: 550px;
+    background: rgba(50, 78, 103, .87);
+    padding: 10px;
+    color: #FFF;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.bg_txt h4 {
+    text-align: center;
+}
+
+nav {
+    display: none;
+}
+
+/**************************************************** GS/Coll */
+.menuGS_Coll {
+    /*position: absolute;*/
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12vw;
+    top: 67vh;
+    /*left: 20px;*/
+    /*margin: 15px auto;*/
+    /*width: auto;*/
+    height: 35px;
+    /*max-width: 900px;*/
+}
+
+#cgsbg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: calc(50% - 4vh);
+    width: auto;
+    height: auto;
+}
+
+div#menu_btn {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    line-height: 1rem;
+    margin: auto;
+    padding: 1.5rem 2rem 1rem;
+    background: linear-gradient(180deg, #4b345f -14.56%, #1a1945 99.61%);
+    background-blend-mode: multiply;
+    border-radius: 45px;
+    border: 1px solid rgba(248, 202, 255, 0.74);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(5px);
+    color: #FFF;
+    font-family: Montserrat Alternates;
+    transform: translateX(-50%);
+    width: 12rem;
+}
+
+div#menu_btn:hover {
+    background: linear-gradient(180deg, #FFDC51 0%, #E2BD27 100%);
+    box-shadow: 0 4px 6px 0 rgba(98, 171, 161, 0.30);
+}
+
+div#menu_btn a {
+    color: #fff;
+    font-size: 14px;
+    padding: 6px 12px 3px;
+    text-decoration: none;
+}
+
+div#menu_btn:hover a {
+    color: black;
+}
+
+div#menu_btn .fa.fa-angle-down {
+    color: #FF965E;
+    font-size: 2rem;
+}
+
+div#menu_btn:hover .fa.fa-angle-down {
+    color: black;
+}
+
+div#gs_1, div#gs_2 {
+    /*position: absolute;*/
+    position: relative;
+    /*margin: auto;*/
+    border-radius: 45px;
+    border: 1px solid rgba(248, 202, 255, 0.74);
+    background: linear-gradient(180deg, #4b345f -14.56%, #1a1945 99.61%);
+    background-blend-mode: multiply;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(5px);
+    font-family: Montserrat Alternates;
+    color: #FFF;
+    padding: 1.5rem 2rem;
+    width: 20rem;
+    z-index: 999;
+}
+
+div#gs_1 {
+    /*left: 0;*/
+}
+
+div#gs_2 {
+    /*left: 160px;*/
+
+}
+
+#gs_1 a, #gs_2 a {
+    color: #fff;
+    font-size: 14px;
+    padding: 6px 12px 3px;
+    text-decoration: none;
+}
+
+div#gs_1:hover, div#gs_2:hover {
+    /*background: #AFDCC9;*/
+    background:linear-gradient(180deg, #FFDC51 0%, #E2BD27 100%) ;
+    box-shadow: 0 4px 6px 0 rgba(98, 171, 161, 0.30);
+}
+
+div#gs_1:hover a, div#gs_2:hover a {
+    color: black;
+}
+
+/*************************************************************** Main Modules*/
+.modules {
+    position: absolute;
+    top: 48vh;
+    margin: 0;
+    width: calc(100% - 20px);
+    height: 51vh;
+    z-index: 951;
+border-top: #F27053 solid 8px;
+    /*background: #101386D9;*/
+    background-blend-mode: multiply;
+    /*box-shadow: 0px 4px 4px 0px #231D32;*/
+    box-shadow: none;
+    /*backdrop-filter: blur(3.5px);*/
+    display: none;
+}
+
+.moduleLink {
+    width: 10vw;
+    height: 10vw;
+    max-width: 100px;
+    max-height: 100px;
+    min-width: 45px;
+    min-height: 45px;
+    margin: 10px;
+    position: relative;
+    opacity: 1;
+}
+
+.moduleLink.selected,
+.moduleLink:hover {
+    background-color: #387c5c;
+}
+
+#module1 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module1, #module1:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+#module2 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module2, #module2:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+#module3 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module3, #module3:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+#module4 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module4, #module4:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+#module5 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module5, #module5:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+#module6 {
+    background: url('../images/home/mod_icon.png') no-repeat top center;
+    background-size: contain;
+}
+
+.moduleLink.selected#module6, #module6:hover {
+    background: url('../images/home/mod_icon_hover.png') no-repeat top center;
+    background-size: contain;
+}
+
+
+
+.moduleLink.invisible {
+    opacity: 0;
+}
+
+.moduleLink a {
+    width: 10vw;
+    height: 10vw;
+    max-width: 100px;
+    max-height: 100px;
+    min-width: 45px;
+    min-height: 45px;
+    margin: 0 auto;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    font-weight: normal;
+    font-family: 'PollerOne', serif;
+    color: #3B3B58;
+    text-decoration: none;
+}
+
+.moduleLink .lessons a {
+    border-bottom: 1px solid lightgray;
+    color: #000000;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    line-height: 18px;
+    position: relative;
+    padding: 6px 6px 6px 10px;
+    text-align: left;
+}
+
+.moduleLink div.lessons a span:first-child {
+    font-weight: bold;
+}
+
+.moduleLink .lessons {
+    background: rgba(239, 239, 239, 0.9);
+    border-radius: 0;
+    border-style: none;
+    box-shadow: 2px 2px 14px rgba(0, 0, 0, 0.3);
+    bottom: 80px;
+    display: none;
+    margin-left: -16px;
+    overflow: visible;
+    padding: 10px;
+    position: absolute;
+    width: 600px;
+    z-index: 999;
+}
+
+.moduleLink img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.moduleLink .hover {
+    opacity: 0;
+}
+
+.moduleLink .hover:hover,
+.moduleLink.selected .hover {
+    opacity: 1;
+}
+
+.subMenu {
+    display: flex;
+    width: calc(100vw - 80px);
+    max-width: 850px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    position: relative;
+}
+
+.segmentIndicators {
+    margin: 0 auto;
+    position: relative;
+}
+
+.modcase {
+    padding: 11px 10px;
+    display: inline;
+    text-align: left;
+    width: 150px !important;
+    float: left;
+    font-family: 'Poppins', sans-serif;
+}
+
+.modcase p {
+    color: #FFF;
+    font-family: Montserrat Alternates;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+div#lessons .modcase h3.moduleTitle {
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: right;
+    font-weight: bold;
+}
+
+.yellowdart {
+    margin-right: 5px;
+    max-width: 33px;
+}
+
+.flexme-popmenu {
+    border-bottom: 4px solid #FF965E;
+    display: flex;
+    gap: 1rem;
+    align-items: baseline;
+    justify-content: end;
+}
+
+.dartholder {
+    clear: left;
+    border-top: 4px solid #FF965E;
+    width: 20%;
+    min-width: 6rem;
+}
+
+#lesson_popup {
+    width: calc(100% - 20px);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    z-index: 999;
+    position: absolute;
+    top: 59vh;
+}
+
+div#lessons {
+    border: none;
+    margin: 7% auto 0;
+    text-align: left;
+    /*min-width: fit-content;*/
+    width: 71%;
+}
+
+div#lessons a {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    background-color: transparent;
+    float: left;
+    padding: 2px;
+    width: 100%;
+}
+
+#lessons a:hover {
+    background: linear-gradient(180deg, #FFDC51 0%, #E2BD27 100%);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px 0 rgba(98, 171, 161, 0.30);
+    color: black;
+}
+
+div#lessons .moduleTitle {
+    color: #FFF;
+    text-align: left;
+    font-family: Montserrat Alternates;
+    font-size: 1.75em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.segOne img, .segTwo img {
+    width: 45vw;
+    max-width: 255px;
+    filter: drop-shadow(0 0 0.5rem #7E112F);
+}
+
+.lesson {
+    display: none;
+    overflow: hidden;
+    z-index: 700;
+    height: auto !important;
+    border-radius: 20px;
+    border: 1px solid rgba(248, 202, 255, 0.74);
+    background: linear-gradient(180deg, #4b345f -14.56%, #1a1945 99.61%);
+    background-blend-mode: multiply;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(5px);
+    margin: 2rem auto;
+    padding: 2rem 2rem 4rem 4rem;
+}
+
+.lesson:not(.moduleNaN) {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+}
+
+.module0.lesson {
+    display: none;
+}
+
+.lesson .col-sm-3 {
+    width: 35vw;
+    /*max-width: 250px;*/
+    float: left;
+    padding: 0;
+}
+
+.lesson.active {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+}
+
+.lesson_name {
+    /*width: 75%;*/
+    display: block;
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    padding-left: 2px;
+    text-indent: -2px;
+}
+
+span.linkColor.lesson_num {
+    display: block;
+    position: relative;
+    clear: left;
+    float: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    min-width: 32px;
+}
+
+/*************************************************************** Footer */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+#fw_footer {
+    background: linear-gradient(180deg, #4b345f -14.56%, #1a1945 99.61%);
+    width: 100%;
+    height: 80px;
+    padding-top: 6px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99887766;
+}
+
+#footer_inner {
+    width: 100%;
+    padding: 0;
+}
+
+#footer_copyright {
+    margin: 0;
+    background-color: #423B58;
+    padding: 0 29px 19px 0;
+    border: none;
+    text-align: right;
+    width: 100%;
+}
+/*
+img.footerLogoImg.flvsLogo {
+    filter: invert(.7);
+}*/
+
+.developers {
+    position: fixed !important;
+    bottom: 40px;
+    left: 10px;
+    z-index: 999;
+}
+
+.developers a {
+    color: white;
+    padding: 4px 8px 2px 14px;
+}
+
+#footer_copyright span {
+    position: absolute;
+    right: 73px;
+    bottom: 18px;
+    color: white;
+}
+
+#content.open div#title {
+    height: 98vh;
+    background: #F27053 url('../images/home/chinese_index.png') no-repeat top right;
+    background-size: cover;
+    border: 10px solid #F27053;
+}
+
+#nav_menu .nav_menu_modules li:last-child a.modlink {
+    margin-bottom: 0;
+}
+
+#wrapper {
+    /*border: 10px solid #F27053;*/
+    border-bottom: none;
+    height: 100vh;
+}
+
+#wrapper #nav_menu {
+    margin-top: 0;
+}
+
+/* ========MEDIA QUERIES========= */
+@media (max-height: 600px) {
+    img.course_title {
+        max-height: 20vh;
+        margin: 6vh auto 0 !important;
+    }
+
+    .modules {
+        height: 63.5vh;
+        top: 35vh;
+    }
+
+    #lesson_popup {
+        top: 48vh;
+    }
+}
+
+@media (max-height: 740px) {
+    .lesson_num,
+    .lesson_name {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 500px) {
+    img.course_title {
+        margin: 5vh auto 0;
+        max-height: 10vh;
+    }
+
+    .lesson .col-sm-3 {
+        width: 98vw;
+        max-width: 95vw;
+        float: none;
+        padding: 2vw;
+    }
+
+    .modules {
+        top: 25vh;
+        height: 75vh;
+    }
+
+    #lesson_popup {
+        top: 28vh;
+        margin: 2vw;
+        overflow: visible;
+    }
+}
