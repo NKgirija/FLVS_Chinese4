@@ -1,0 +1,284 @@
+.fev_flipBook.booklet .b-page-cover h4 {
+    font-size: 14px;
+    text-shadow: none;
+    padding: 0px;
+    margin: 0px
+}
+
+.jFlipbook.fev_flipBook a {
+    color: #000000;
+    font-weight: normal;
+    text-shadow: none;
+    /*background: #f2d164;*/
+    background: transparent;
+    display: block;
+    padding: 5px 10px;
+    /*width: 75%;*/
+    margin: 0 auto;
+    /*margin-top: 5px;*/
+    margin-top: 119px;
+    border-radius: 0px;
+    /* box-shadow: 1px 1px 5px #007b9e; */
+    font-size: 13px;
+    margin-left: 21px;
+    width: 87%;
+    height: 50px;
+}
+
+.jFlipbook.fev_flipBook a:hover {
+    /* background: #b9e9f7;
+    box-shadow: 0px 0px 2px #007b9e; */
+    opacity: 0.85;
+}
+
+.jFlipbook a:focus {
+    border: none;
+    outline: 2px dashed !important;
+}
+
+.fev_flipBook.booklet .b-page-cover h3 {
+    font-size: 30px;
+}
+
+.fev_flipBook.booklet .b-page-cover h4 {
+    font-size: 13px;
+}
+
+.fev_flipBook.booklet .b-page-cover h4:empty {
+    display: none;
+}
+
+.b-page-1 .b-page-cover {
+    background: url(../imgs/book-cover.png) !important
+}
+
+.fev_flipBook.booklet .b-page-cover .cover h3 {
+    margin-top: 130px;
+}
+
+.fev_flipBook.booklet .b-page-cover p,
+.fev_flipBook.booklet .b-page-cover h3 {
+    text-shadow: none;
+}
+
+.fev_flipBook .fev_blocker {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    z-index: 98;
+}
+
+.fev_flipBook .fev_blocker.right {
+    right: 0;
+}
+
+.fev_flipBook .fevflipbookbtn {
+    width: 18px;
+    height: 100%;
+    position: absolute;
+    z-index: 99;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    display: none;
+    font-size: 0.1px;
+    color: transparent;
+    overflow: hidden;
+}
+
+.fev_overflowShow_def {
+    overflow: visible !important;
+}
+
+.fevng_tips .popover-title {
+    margin: 0 !important;
+    padding: 8px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    text-align: left !important;
+}
+
+.fev_flipBook .fevflipbookbtn.flipbook_next {
+    right: 0;
+    display: block;
+}
+
+.jFlipbook p {
+    margin: 5px 10px;
+}
+
+.jFlipbook {
+    height: 500px !important;
+    background: #ebe9e5 url(../imgs/book-coverA.png) no-repeat !important;
+}
+
+.booklet .b-pN .b-wrap,
+.booklet .b-p2 .b-wrap,
+.booklet .b-p3 .b-wrap,
+.booklet .b-p4 .b-wrap,
+.booklet .b-page,
+.booklet .b-shadow-b,
+.fev_flipBook.booklet .b-page-cover,
+.booklet .b-wrap {
+    height: 495px !important;
+}
+
+span.caption {
+    margin: 5px 0px;
+    font-size: 8pt;
+    text-align: center;
+    width: 98%;
+    display: block;
+}
+
+span.fev_txt {
+    margin: 0px auto !important;
+    width: 98%;
+    position: absolute;
+    /* z-index: 999; */
+    bottom: -27px;
+}
+
+.ilShell {
+    padding: 0px 0px !important;
+    margin: 10px auto 50px !important;
+}
+
+.ilShell button.toggleSwitch,
+.ilShell button.toggleSwitchFT {
+    bottom: -25px;
+}
+
+.fev_flipBook.booklet .b-page-cover .cover h3 {
+    margin-top: -10px;
+    font-weight: 600;
+    color: transparent;
+    font-size: 0px;
+}
+
+.fev_flipBook.booklet .b-page-cover {
+    background: url(../imgs/book-cover-back.png);
+}
+
+div[title="End"] {
+    /*margin-top: 290px;*/
+    padding-top: 0px !important;
+    margin-left: -12px;
+    margin-top: 430px;
+}
+
+.fev_flipBook.booklet .b-page-cover h3,
+.fev_flipBook.booklet .b-page-cover h4 {
+    color: #ffffff;
+}
+
+.fev_flipBook.booklet .b-page-cover h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.mt-2 {
+    margin-top: 20px !important;
+}
+
+.mt-3 {
+    margin-top: 30px !important;
+}
+
+.print .glyphicon.glyphicon-print {
+    background-image: none;
+    text-indent: inherit;
+}
+
+/* .b-wrap-right>div:first-child {
+    padding-right: 5px;
+} */
+a.fev_tooltip.addedTooltip {
+    width: fit-content;
+    background: white;
+    color: #4d579b;
+    padding: 2px;
+    display: inline-block;
+    margin: 0px;
+
+}
+
+.jFlipbook h3,
+.jFlipbook audio {
+    margin-bottom: 10px;
+    margin-top: -6px;
+}
+
+/* .fev_flipBook .fevflipbookbtn:focus {
+    outline: 2px solid #aa55aa;
+}
+ */
+@media only screen and (max-width: 800px) {
+    .ilShell {
+        margin-left: -6% !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .fev_txt {
+        display: none !important;
+    }
+}
+
+.b-wrap-left .fitb {
+    padding-right: 5px;
+}
+
+.b-wrap-right .tf {
+    padding-left: 5px;
+}
+
+.b-wrap-right .tf p {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.start-btn {
+    position: absolute;
+    bottom: 16px;
+    text-align: center;
+    color: white;
+    background: #2E2D50;
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 10px 30px;
+    box-shadow: 0 4px 4px 0 rgba(160, 132, 69, 0.20);
+    left: 50%;
+    transform: translateX(-50%);
+    /*border: 2px solid white;*/
+    border: none;
+}
+
+
+.disable-btn {
+    display: none !important;
+    pointer-events: none;
+}
+
+hr {
+    margin: 5px 10px;
+}
+
+.fev_flipBook.booklet.fb_startPage .b-page.b-page-1.b-p2 {
+    width: 350px !important;
+}
+
+.fev_flipBook.booklet.fb_startPage .b-page.b-page-2.b-p3.ui-draggable.b-grab {
+    width: 0px !important;
+}
+
+.start-btn:focus,
+.start-btn:hover {
+    outline: 2px solid #ffffff;
+    outline-offset: 0px;
+}
