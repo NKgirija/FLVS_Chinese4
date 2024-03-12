@@ -1,0 +1,120 @@
+{
+  "config": {
+    "src": "quizmo",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_mc_qus.css",
+      "interactives/05_01_04/styles.css"
+    ],
+    "intMedia": "interactives/05_01_04/intmedia/",
+    "interactiveTitle": "",
+    "showInteractive": "Show Interactive",
+    "copyright": [
+      "Shutterstock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Read or listen to each word or phrase, then complete the multiple-choice question that follows."
+      },
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_01_04/intmedia/jewelry.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "jewelry.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>首饰 </span> shǒushì (jewelry)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what does the <strong>first  </strong>  character mean?</p>",
+        "answer": "The head",
+        "options": [
+          "The ear",
+          "The neck",
+          "The wrist"
+        ],
+        "correct": "Terrifically done! In the word  <span lang='zh-Hans'>首饰</span> shǒushì (jewelry), the first character, <span lang='zh-Hans'>首</span> shǒu, means \"head\" in formal settings, and the last character, <span lang='zh-Hans'>饰</span> shì, means \"to decorate/decoration.\" You’ve got it!",
+        "incorrect": "Very close. Listen to the audio several times to identify the meaning of the word, and then consider the meaning of its first character. You can do it! ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_01_04/intmedia/different.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "different.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>不同</span> bùtóng (different)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, which is an <strong>antonym</strong> (word with opposite meaning) of the word in the audio?</p>",
+        "answer": "<span lang='zh-Hans'>相同</span>",
+        "options": [
+          "<span lang='zh-Hans'>许多</span>",
+          "<span lang='zh-Hans'>干燥</span>",
+          "<span lang='zh-Hans'>潮湿</span>"
+        ],
+        "correct": "You nailed it! The word <span lang='zh-Hans'>不同</span>  bùtóng means \"different,\" and its antonym is <span lang='zh-Hans'>相同</span> xiāngtóng (same). Very nicely done!",
+        "incorrect": "Oops. Listen to the word again to identify its meaning, and then consider which word in the choices has an opposite meaning.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>语言 </span> yǔyán"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p><strong>Deducing</strong> from the word presented, which word refers to a specific language?</p>",
+        "answer": "<span lang='zh-Hans'>法语</span>",
+        "options": [
+          "<span lang='zh-Hans'>言法</span>",
+          "<span lang='zh-Hans'>法言</span>",
+          "<span lang='zh-Hans'>语法</span>"
+        ],
+        "correct": "You got it! In the word <span lang='zh-Hans'>语言 </span>  yǔyán (language), both the first character, <span lang='zh-Hans'>语 </span> yǔ, and the last character, <span lang='zh-Hans'>言 </span> yán, mean \"speech/language,\" while <span lang='zh-Hans'>语 </span> yǔ can be used to formally identify specific languages. It needs to be placed at the end of the word. For example, <span lang='zh-Hans'>汉语 </span> hànyǔ (Chinese), <span lang='zh-Hans'>英语 </span> yīngyǔ (English), and <span lang='zh-Hans'>西班牙语 </span> xībānyáyǔ (Spanish) are placed at the end. In the choices, <span lang='zh-Hans'>法语 </span> fǎyǔ is the correct word for the language \"French.\" Totally awesome!",
+        "incorrect": "Not quite. Review the word again to identify the function of each of its characters and see if you can use the same function to specify a language. ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "config",
+        "customView": "interactives/05_01_04/customview_imgbtn.htm"
+      },
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>银    </span> yín"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Which image <strong>best</strong> matches the word presented?</p>",
+        "answer": "<span class='fortv'>Image of silver bars</span><img src='interactives/05_01_04/intmedia/img_1.jpg' alt='Image of silver bars' class='border center-block'>",
+        "options": [
+          "<span class='fortv'>Image of gold bars</span><img src='interactives/05_01_04/intmedia/img_2.jpg' alt='Image of gold bars' class='border center-block'>",
+          "<span class='fortv'>Image of wooden blocks</span><img src='interactives/05_01_04/intmedia/img_3.jpg' alt='Image of wooden blocks' class='border center-block'>",
+          "<span class='fortv'>Image of ice cubes </span><img src='interactives/05_01_04/intmedia/img_4.jpg' alt='Image of ice cubes ' class='border center-block'>"
+        ],
+        "correct": "Job nicely done! The word <span lang='zh-Hans'>银</span> yín means \"silver,\" and you’ve selected the image that matches the word. Way to go!",
+        "incorrect": "Not quite. First you need to identify the meaning of the word, and then identify the image that best matches it. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}

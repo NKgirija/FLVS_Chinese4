@@ -1,0 +1,122 @@
+{
+  "config": {
+    "src": "quizmo",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_mc_qus.css",
+      "interactives/05_01_02/styles.css"
+    ],
+    "intMedia": "interactives/05_01_02/intmedia/",
+    "interactiveTitle": "",
+    "showInteractive": "Show Interactive",
+    "copyright": [
+      "Shutterstock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Read or listen to each word or phrase, then complete the multiple-choice question that follows."
+      },
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_01_02/intmedia/ch4_earthquake.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "ch4_earthquake.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>地震 dìzhèn  </span> shīrén (earthquake)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what does the <strong>second</strong> character mean?</p>",
+        "answer": "To shock",
+        "options": [
+          "To break",
+          "To lift",
+           "To throw"
+        ],
+        "correct": "Terrifically done! In the word  <span lang='zh-Hans'>地震</span>  dìzhèn (earthquake), the first character,  <span lang='zh-Hans'>地</span>  dì, means \"earth,\" and the last character,  <span lang='zh-Hans'>震</span>  zhèn, means \"to shock.\" You’ve got it!",
+        "incorrect": "Very close. Listen to the audio several times to identify the meaning of the word as a whole, and then break it down and consider the meaning of its second character. You can do it! ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_01_02/intmedia/ch4_humid.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "ch4_humid.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>潮湿    </span> cháoshī (humid) "
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what is an <strong>antonym</strong> (word with opposite meaning) for the word in the audio?</p>",
+        "answer": "<span lang='zh-Hans'>干燥</span>",
+        "options": [
+          "<span lang='zh-Hans'>健康</span>",
+          "<span lang='zh-Hans'>珍贵</span>",
+          "<span lang='zh-Hans'>热闹</span>"
+        ],
+         "correct": "You nailed it! The word <span lang='zh-Hans'>潮湿</span> cháoshī means \"humid,\" and a word with the opposite meaning is <span lang='zh-Hans'>干燥</span> gānzào (dry). Very nicely done!",
+        "incorrect": "Oops. Listen to the word again to identify the meaning of the word, and then consider which word in the choices had the opposite meaning.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>人们   </span> rénmen"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p><strong>Deducing</strong>  from the word presented, which word is the plural form of a noun?</p>",
+        "answer": "<span lang='zh-Hans'>朋友们</span>",
+        "options": [
+          "<span lang='zh-Hans'>人朋友</span>",
+          "<span lang='zh-Hans'>们朋友</span>",
+          "<span lang='zh-Hans'>朋友人</span>"
+        ],
+        
+        "correct": "You got it! In the word <span lang='zh-Hans'>人们</span> rénmen (people), the last character, <span lang='zh-Hans'>们</span> men, is a suffix to be placed after a noun or pronoun to make it plural. It can be placed after the noun <span lang='zh-Hans'>朋友</span> péngyǒu (friend) to make it plural <span lang='zh-Hans'>朋友们</span>  péngyǒumen (friends). Totally awesome!",
+        
+        "incorrect": "Not quite. Review the word again to identify the function of each of its characters and see if you can use the same function on a different noun or pronoun. ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "config",
+        "customView": "interactives/05_01_02/customview_imgbtn.htm"
+      },
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>许多   </span> xǔduō"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p> Which image <strong>best</strong> matches the word presented?</p>",
+        "answer": "<span class='fortv'>Image of many oranges</span><img src='interactives/05_01_02/intmedia/img_2.jpg' alt='Image of many oranges' class='border center-block'>",
+        "options": [
+          "<span class='fortv'>Image of two tomatoes</span><img src='interactives/05_01_02/intmedia/img_1.jpg' alt='Image of two tomatoes' border center-block'>",
+          "<span class='fortv'>Image of a banana </span><img src='interactives/05_01_02/intmedia/img_3.jpg' alt='Image of a banana' class='border center-block'>",
+          "<span class='fortv'>Image of two cucumbers</span><img src='interactives/05_01_02/intmedia/img_4.jpg' alt='Image of two cucumbers' class='border center-block'>"
+        ],
+        "correct": "Job nicely done! The word <span lang='zh-Hans'>许多 </span> xǔduō means \"many,\" and you’ve selected the image that matches this word. Way to go!",
+        "incorrect": "Not quite. First you need to identify the meaning of the word, and then identify the image that matches it. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}
