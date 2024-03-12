@@ -1,0 +1,155 @@
+{
+    "config": {
+        "src": "quizmo",
+        "theme": "simplicity",
+        "css": [
+            "../../global/css/fev_mc_qus.css",
+            "interactives/05_09_02/styles.css"
+        ],
+        "intMedia": "interactives/05_09_02/intmedia/",
+        "progressBar": true,
+        "resultsPage": false,
+        "showInteractive": "Show Interactive"
+    },
+    "body": [
+       
+        [
+            {
+                "type": "config",
+                "directions": "Read the question, and then select the correct answer."
+            },
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>就会; 不会</span>",
+                    "<span lang='zh-Hans'>不会; 就会</span>",
+                    "<span lang='zh-Hans'>就是; 不是</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>either…or</strong>\"? </p><p><span lang='zh-Hans'>这些诗_____唐朝的_____宋朝的。</span></p>",
+                "answer": "<span lang='zh-Hans'>不是; 就是</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!  ",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>都; 不管 </span>",
+                    "<span lang='zh-Hans'>就; 不是</span>",
+                    "<span lang='zh-Hans'>不是; 就</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>no matter…still</strong>\"? </p><p><span lang='zh-Hans'>_____暴风雪有多大，他_____要去他朋友家。</span></p>",
+                "answer": "<span lang='zh-Hans'>不管; 都</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>是; 对</span>",
+                    "<span lang='zh-Hans'>对; 是</span>",
+                    "<span lang='zh-Hans'>就; 要</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>if…then</strong>\"? </p><p><span lang='zh-Hans'>你_____去她家_____应该在暴风雪来以前出发。</span></p>",
+                "answer": "<span lang='zh-Hans'>要; 就</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>首饰</span>",
+                    "<span lang='zh-Hans'>语言</span>",
+                    "<span lang='zh-Hans'>潮湿</span>"
+                ],
+                "quiz": "<p>David just sent a text message to his friend Jiajun about his experience when traveling in Yunnan, China.</p><p><span lang='zh-Hans'>这个地区有时候会有_____。</span></p><p>\"Sometimes there are earthquakes in this region.\"</p><p>Select the Chinese word to fill in the blank to <strong>best</strong> match its English meaning.</p>",
+                "answer": "<span lang='zh-Hans'>地震</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>里; 从</span>",
+                    "<span lang='zh-Hans'>中; 是</span>",
+                    "<span lang='zh-Hans'>是; 中</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>from</strong>\"? </p><p><span lang='zh-Hans'>我们_____这本书_____学到了很多著名的诗。</span></p>",
+                "answer": "<span lang='zh-Hans'>从; 里</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            
+            {
+                "type": "text",
+                "content": "<p>Listen to the voice message in Chinese that Cathy sent to her friend Annie about a country that she recently visited, and then answer the question in English. </p><br><audio class='audio' controls src='interactives/05_09_02/intmedia/country_east_prarie.mp3' ></audio>"
+            },
+            {
+                "type": "mc",
+                "options": [
+                    "Mines",
+                    "Deserts",
+                    "Forests"
+                ],
+                "quiz": "<p>According to the voice message, what are there in the <strong>east</strong> of this country?</p>",
+                "answer": "Prairies",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>又; 又 </span>",
+                    "<span lang='zh-Hans'>是; 是</span>",
+                    "<span lang='zh-Hans'>对; 对</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>the more…the more</strong>\"?<p><p><span lang='zh-Hans'>这个地区_____往南_____暖和。</span></p>",
+                "answer": "<span lang='zh-Hans'>越; 越</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ],
+        
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span lang='zh-Hans'>又; 既</span>",
+                    "<span lang='zh-Hans'>是; 既</span>",
+                    "<span lang='zh-Hans'>既; 是</span>"
+                ],
+                "quiz": "<p>Which group of words <strong>best</strong> completes the sentence in Chinese by expressing \"<strong>both…and</strong>\"? </p><p><span lang='zh-Hans'>这部小说_____浪漫_____优雅。</span></p>",
+                "answer": "<span lang='zh-Hans'>既; 又</span>",
+                "correct": "Job well done! You’ve shown mastery of this knowledge point. Keep up the good work!",
+                "incorrect": "Almost there! Read the question again and review your note guide or summary documents. You will get it right!",
+                "failed": "The answer has been filled in for you, but you're sure to get it next time.",
+                "failedHeading": "Not quite, but you'll get it soon!"
+            }
+        ]
+    ]
+}
