@@ -1,0 +1,120 @@
+{
+  "config": {
+    "src": "quizmo",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_mc_qus.css",
+      "interactives/05_02_02/tropicals.css"
+    ],
+    "intMedia": "interactives/05_02_02/intmedia/",
+    "interactiveTitle": "",
+    "showInteractive": "Show Interactive",
+    "copyright": [
+      "Shutterstock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Read or listen to each word or phrase, then complete the multiple-choice question that follows."
+      },
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_02_02/intmedia/tropical.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "tropical.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>风格 </span> rèdài  (tropical)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what does the  <strong>first</strong> character mean?</p>",
+        "answer": "Hot",
+        "options": [
+          "Cold",
+          "Dry",
+          "Wet"
+        ],
+        "correct": "Terrifically done! In the word <span lang='zh-Hans'>热带</span> rèdài (tropical), the first character, <span lang='zh-Hans'>热</span> rè, means \"hot,\" and the last character, <span lang='zh-Hans'>带</span> dài, means \"area\" in this context. You’ve got it!",
+        "incorrect": "Very close. Listen to the audio several times to identify the meaning of the word as a whole, and then break it down and consider the meaning of its first character. You can do it! ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_02_02/intmedia/swamp.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "swamp.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>沼泽 </span> zhǎozé (swamp)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, where can one <strong>most likely </strong> find the natural formation indicated by the word in the audio?</p>",
+        "answer": "In the woods",
+        "options": [
+          "In the desert",
+          "In the sky",
+          "On the beach"
+        ],
+        "correct": "You nailed it! The word <span lang='zh-Hans'>沼泽 </span> zhǎozé means \"swamp,\" and you can most likely find it in the woods, especially near a lake or river. Very nicely done!",
+        "incorrect": "Oops. Listen to the word again to identify the meaning of the word, and then consider where you can most likely see the natural formation indicated by it.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>省</span> shěng"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Which belongs to the category indicated by the word presented?</p>",
+        "answer": "Fujian",
+        "options": [
+          "Bakery",
+          "Kitchen",
+          "China"
+        ],
+        "correct": "You got it! In the word  <span lang='zh-Hans'>省</span> shěng means \"province.\" In the choices, \"Fujian\" is the name of a province. Totally awesome!",
+        "incorrect": "Not quite. Review the word again to identify its meaning and see which item in the choices belongs to the category defined by it. ",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "config",
+        "customView": "interactives/05_02_02/customview_imgbtn.htm"
+      },
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>隧道 </span> suìdào"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Which image <strong>best</strong> matches the word presented?</p>",
+        "answer": "<span class='fortv'>The end of a tunnel</span><img src='interactives/05_02_02/intmedia/img_2.jpg' alt='The end of a tunnel' class='border center-block'>",
+        "options": [
+          "<span class='fortv'>A bridge</span><img src='interactives/05_02_02/intmedia/img_1.jpg' alt='A bridge' class='border center-block'>",
+          "<span class='fortv'>An intersection</span><img src='interactives/05_02_02/intmedia/img_3.jpg' alt='An intersection' class='border center-block'>",
+          "<span class='fortv'>A highway</span><img src='interactives/05_02_02/intmedia/img_4.jpg' alt='A highway' class='border center-block'>"
+        ],
+        "correct": "Job nicely done! The word <span lang='zh-Hans'>隧道</span> suìdào means \"tunnel,\" and you’ve selected the image that matches this word. Way to go!",
+        "incorrect": "Not quite. First you need to identify the meaning of the word, and then identify the image that matches it. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}
