@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+	<title>Flip Card</title>
+	<directionsTextVer>Select to see more information on the character.</directionsTextVer>
+	<width>210</width>
+	<height>195</height>
+	<bgcolor>#bebebe</bgcolor>
+	<speed>350</speed>
+	<spinDirection>lr</spinDirection>
+	<customTextVer><!--interactives/02_03_06/textversion.htm--></customTextVer>
+  
+	<flipcard>
+	  <cardfront>
+	  	<title></title>
+		<text><![CDATA[<div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_02_2/intmedia/img1_flvs.png' alt='Character for zhū' /></div>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	  	<title></title>
+	    <text><![CDATA[<p><span lang="zh-Hans">珠</span> zhū (pearl)</p>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	  	<title></title>
+		<text><![CDATA[<div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_02_2/intmedia/img2_flvs.png' alt='Character for huán' /></div>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	  	<title></title>
+	    <text><![CDATA[<p><span lang="zh-Hans">环</span> huán (ring/loop)</p>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	  	<title></title>
+		<text><![CDATA[<div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_02_2/intmedia/img3_flvs.png' alt='Character for xiàn' /></div>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	  	<title></title>
+	    <text><![CDATA[<p><span lang="zh-Hans">现</span> xiàn (to appear/now)</p>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+
+	<flipcard>
+	  <cardfront>
+	  	<title></title>
+		<text><![CDATA[<div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_02_2/intmedia/img4_flvs.png' alt='Character for wán' /></div>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	  	<title></title>
+	    <text><![CDATA[<p><span lang="zh-Hans">玩</span> wán (to play)</p>]]></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+
+
+</settings>

@@ -1,0 +1,51 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "resultsPage": false,
+    "interactiveTitle": "<span lang='zh-Hans'>生字</span> (New Characters)",
+    "theme": "standard",
+    "showInteractive": "Show Slideshow",
+    "css": [
+      "interactives/05_05_03/css/styles.css"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>震</span></p></td><td><p class='text-center pinyin'>zhèn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_1_flvs.png' alt='Stroke sequence for zhèn'/></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>潮</span></p></td><td><p class='text-center pinyin'>cháo</p></td><td><div class='fevimagecenter'> <img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_2_flvs.png' alt='Stroke sequence for cháo'/></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>燥</span></p></td><td><p class='text-center pinyin'>zào</p></td> <td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_3_flvs.png' alt='Stroke sequence for zào'/></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>许 </span></p></td><td><p class='text-center pinyin'>xǔ</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_4_flvs.png' alt='Stroke sequence for xǔ'/></div></td></tr></table>"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>似</span></p></td><td><p class='text-center pinyin'>sì</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_5_flvs.png' alt='Stroke sequence for sì'/></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>省</span></p></td><td><p class='text-center pinyin'>shěng</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_6_flvs.png' alt='Stroke sequence for shěng' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>隧</span></p></td><td><p class='text-center pinyin'>suì</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_7_flvs.png' alt='Stroke sequence for suì' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>沼</span></p></td><td><p class='text-center pinyin'>zhǎo</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_8_flvs.png' alt='Stroke sequence for zhǎo' /></div></td></tr></table>"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>泽</span></p></td><td><p class='text-center pinyin'>zé</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_9_flvs.png' alt='Stroke sequence for zé' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>端</span></p></td><td><p class='text-center pinyin'>duān</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_10_flvs.png' alt='Stroke sequence for duān' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>温</span></p></td><td><p class='text-center pinyin'>wēn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_11_flvs.png' alt='Stroke sequence for wēn' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>度</span></p></td><td><p class='text-center pinyin'>dù</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_12_flvs.png' alt='Stroke sequence for dù' /></div></td></tr></table>"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>漠</span></p></td><td><p class='text-center pinyin'>mò</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_13_flvs.png' alt='Stroke sequence for mò' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>森</span></p></td><td><p class='text-center pinyin'>sēn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_14_flvs.png' alt='Stroke sequence for sēn' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>帐</span></p></td><td><p class='text-center pinyin'>zhàng</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_15_flvs.png' alt='Stroke sequence for zhàng' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>坦</span></p></td><td><p class='text-center pinyin'>tǎn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_16_flvs.png' alt='Stroke sequence for tǎn' /></div></td></tr></table>"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>暴</span></p></td><td><p class='text-center pinyin'>bào</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_17_flvs.png' alt='Stroke sequence for bào' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>资</span></p></td><td><p class='text-center pinyin'>zī</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_18_flvs.png' alt='Stroke sequence for zī' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>源</span></p></td><td><p class='text-center pinyin'>yuán</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_19_flvs.png' alt='Stroke sequence for yuán' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>矿</span></p></td><td><p class='text-center pinyin'>kuàng</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_20_flvs.png' alt='Stroke sequence for kuàng' /></div></td></tr></table>"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<table class='fevng_table'><tr><th class='col_15'>Character</th><th class='col_15'>Pinyin</th><th class='col_70'>Stroke sequence</th></tr><tr><td><p class='text-center'><span lang='zh-Hans'>产</span></p></td><td><p class='text-center pinyin'>chǎn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_21_flvs.png' alt='Stroke sequence for chǎn' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>岩</span></p></td><td><p class='text-center pinyin'>yán</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_22_flvs.png' alt='Stroke sequence for yán' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>石</span></p></td><td><p class='text-center pinyin'>shí</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_23_flvs.png' alt='Stroke sequence for shí' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>煤</span></p></td><td><p class='text-center pinyin'>méi</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_24_flvs.png' alt='Stroke sequence for méi' /></div></td></tr><tr><td><p class='text-center'><span lang='zh-Hans'>炭</span></p></td><td><p class='text-center pinyin'>tàn</p></td><td><div class='fevimagecenter'><img class='fevimageBorder' src='interactives/05_05_03/intmedia/slide_25_flvs.png' alt='Stroke sequence for tàn' /></div></td></tr></table>"
+      }
+    ]
+  ]
+}
