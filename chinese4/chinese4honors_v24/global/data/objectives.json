@@ -1,0 +1,484 @@
+{
+  "objectives": [
+    {
+      "mID": "6",
+      "lessons": [
+        {
+          "lessID": "00",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "participate in a collaboration using Chinese language, grammar, and culture"            
+          ]
+        }, 
+        {
+          "lessID": "01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "participate in a collaboration using Chinese language, grammar, and culture"            
+          ]
+        }, 
+        {
+          "lessID": "02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "participate in a collaboration using Chinese language, grammar, and culture"            
+          ]
+        }        
+      ]
+    },
+    {
+      "mID": "1",
+      "lessons": [
+        {
+          "lessID": "01.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about technology products and their uses",
+            "participate in a conversation about technology products and their uses",
+            "identify the Chinese characters and their meanings about technology products and their uses",
+            "identify technology inventions and their advantages and/or disadvantages",
+            "identify and apply the use of \"<span lang='zh-Hans'>曾经</span> céngjīng\" to express \"once/used to\"",
+            "identify apply the use of \"<span lang='zh-Hans'>本来</span> běnlái\" to express \"originally/could have been\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>再三</span> zàisān\" to express \"over and over again\""
+          ]
+        },
+        {
+          "lessID": "01.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about technology products and their advantages and/or disadvantages",
+            "participate in a conversation about technology products and their advantages and/or disadvantages",
+            "identify the Chinese characters and their meanings about technology products and their advantages and/or disadvantages",
+            "identify technology inventions and their advantages and/or disadvantages",
+            "identify and apply the use of \"<span lang='zh-Hans'>一向</span> yīxiàng\" to express \"have always\"",
+            "identify apply the use of \"…<span lang='zh-Hans'>又</span> yòu…\"  to express \"again and again\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>很多</span> hěnduō/<span lang='zh-Hans'>得多</span> deduō/<span lang='zh-Hans'>多了</span> duōle\" to express \"much more\""
+          ]
+        },
+        {
+          "lessID": "01.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "use details in a presentation about technology products and their advantages",
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to technology products and their advantages"
+          ]
+        },
+        {
+          "lessID": "01.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about technology products and their advantages and/or disadvantages",
+            "participate in a conversation about technology products and their advantages and/or disadvantages",
+            "identify the Chinese characters and their meanings about technology products and their advantages and/or",
+            "identify technology inventions and their advantages and/or disadvantages",
+            "identify and apply the use of \"<span lang='zh-Hans'>啊</span> a\" to express \"like…and so on\"",
+            "identify apply the use of \"<span lang='zh-Hans'>于是</span> yúshì\" to express \"therefore\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>当……的时候</span> dāng…de shíhòu\" to express \"when\""
+          ]
+        },
+        {
+          "lessID": "01.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "read a narration with simple sentences",
+            "write simple sentences in Chinese"
+          ]
+        },
+        {
+          "lessID": "01.06",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "actively participate in a basic conversation exchanging basic information in Chinese, including technology products/inventions, advantages and disadvantages of technology, use of technology, chronological progress of technology, and formality and informality when speaking"
+          ]
+        },
+        {
+          "lessID": "01.07",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about technology advantages and disadvantages",
+            "participate in a conversation about technology advantages and disadvantages",
+            "identify the Chinese characters and their meanings about technology advantages and disadvantages",
+            "identify and apply the use of \"<span lang='zh-Hans'>其中</span> qízhōng\" to express \"with/among\"",
+            "identify apply the use of \"<span lang='zh-Hans'>了</span> le\" with complements",
+            "identify and apply the use of \"<span lang='zh-Hans'>嘛</span> ma\" to express a topic with a modal word"
+          ]
+        },
+        {
+          "lessID": "01.08",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "demonstrate command of the Chinese language and related culture by orally presenting products of technology/inventions and advantages and disadvantages of technology"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "2",
+      "lessons": [
+        {
+          "lessID": "02.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about wellness, healthcare, and staying healthy",
+            "participate in a conversation about wellness, healthcare, and staying healthy",
+            "identify the Chinese characters and their meanings about wellness, healthcare, and staying healthy",
+            "identify and apply the use of \"<span lang='zh-Hans'>随着</span> suízhe\" to express \"along with\"",
+            "identify apply the use of \"<span lang='zh-Hans'>自从</span> zìcóng\" to express \"ever since\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>而言</span> éryán/<span lang='zh-Hans'>来说</span> láishuō \" to express \"for\""
+          ]
+        },
+        {
+          "lessID": "02.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about wellness and staying healthy",
+            "participate in a conversation about wellness and staying healthy",
+            "identify the Chinese characters and their meanings about wellness and staying healthy",
+            "compare and contrast Chinese and Western medicine  ",
+            "identify and apply the use of \"<span lang='zh-Hans'>至于</span> zhìyú\" to express \"with regards to/as for\"",
+            "identify apply the use of \"<span lang='zh-Hans'>趁</span> chèn\" to express \"while/to take advantage of\" for opportune timing",
+            "identify and apply the use of \"<span lang='zh-Hans'>要不是</span> yàobùshì\" to express \"if it were not for/if…hadn't\"  "
+          ]
+        },
+        {
+          "lessID": "02.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "use details in a presentation about wellness and staying healthy",
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to wellness and staying healthy"
+          ]
+        },
+        {
+          "lessID": "02.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about wellness, staying healthy, and alternative medicine",
+            "participate in a conversation about wellness, staying healthy, and alternative medicine",
+            "identify the Chinese characters and their meanings about wellness, staying healthy, and alternative medicine",
+            "identify and apply the use of \"<span lang='zh-Hans'>化</span> huà\" to express \"to make something…\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>像</span> xiàng…<span lang='zh-Hans'>一样</span> yīyàng…\" to express \"like/as … as\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>不如</span> bùrú\" to express \"not as…as…\"  "
+          ]
+        },
+        {
+          "lessID": "02.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "read a narration with simple sentences",
+            "write simple sentences in Chinese"
+          ]
+        },
+        {
+          "lessID": "02.06",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "actively participate in a basic conversation exchanging basic information in Chinese, including balancing life, wellness, health care, alternative medicine, and staying healthy"
+          ]
+        },
+        {
+          "lessID": "02.07",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about wellness, healthy habits, and healthy activities",
+            "participate in a conversation about wellness, healthy habits, and healthy activities",
+            "identify the Chinese characters and their meanings about wellness, healthy habits, and healthy activities",
+            "identify and apply the use of \"<span lang='zh-Hans'>将</span> jiāng\" to form a \"ba-sentence\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>将</span> jiāng\" to express \"will\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>并</span> bìng/<span lang='zh-Hans'>并且</span> bìngqiě\" to express \"and \"  "
+          ]
+        },
+        {
+          "lessID": "02.08",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "demonstrate command of the Chinese language and related culture by orally presenting about wellness, healthy habits, healthy activities, and staying healthy"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "3",
+      "lessons": [
+        {
+          "lessID": "03.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about architecture  ",
+            "participate in a conversation about architecture ",
+            "identify the Chinese characters and their meanings about architecture ",
+            "compare and contrast important architecture around the world",
+            "identify elements of legends related to architecture",
+            "identify and apply the use of \"<span lang='zh-Hans'>难免</span> nánmiǎn\" to express \"hard to avoid\" ",
+            "identify apply the use of \"<span lang='zh-Hans'>值得</span> zhídé\" to express \"to be worth\"  ",
+            "identify and apply the use of \"<span lang='zh-Hans'>受</span> shòu\" to form bei-sentence with passive verbs  "
+          ]
+        },
+        {
+          "lessID": "03.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about theater, opera, and plays  ",
+            "participate in a conversation about theater, opera, and plays  ",
+            "identify the Chinese characters and their meanings in theater, opera, and plays",
+            "compare and contrast different styles of opera around the world",
+            "identify elements of legends related to theater, opera, and plays ",
+            "identify and apply the use of \"<span lang='zh-Hans'>格外</span> géwài\" to express \"especially\" ",
+            "identify and apply the use of \"<span lang='zh-Hans'>尽管</span>  jǐnguǎn……<span lang='zh-Hans'>还是</span> háishì \" to express \"although…still\"  ",
+            "identify and apply the use of \"<span lang='zh-Hans'>却</span> què\" to express \"however\"  "
+          ]
+        },
+        {
+          "lessID": "03.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "use details in a presentation about architecture and theater ",
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to architecture and theater "
+          ]
+        },
+        {
+          "lessID": "03.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about mathematics ",
+            "participate in a conversation about mathematics ",
+            "identify the Chinese characters and their meanings about mathematics ",
+            "identify Chinese idioms related to numbers",
+            "identify elements of legends related to mathematics ",
+            "identify and apply the use of \"<span lang='zh-Hans'>由于</span> yóuyú\" to express \"due to/owing to\" ",
+            "identify apply the use of \"<span lang='zh-Hans'>既然</span> jìrán…<span lang='zh-Hans'>就</span> jiù\" to express \"since…then\"  ",
+            "identify and apply the use of \"adjective + <span lang='zh-Hans'>得</span> de + <span lang='zh-Hans'>不得了</span> bùdéliǎo\" to express \"incredibly\" "
+          ]
+        },
+        {
+          "lessID": "03.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "read a math problem with simple sentences ",
+            "write simple sentences in Chinese "
+          ]
+        },
+        {
+          "lessID": "03.06",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "actively participate in a basic conversation exchanging basic information in Chinese, including architecture, theater, and numbers"
+          ]
+        },
+        {
+          "lessID": "03.07",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about celebrations  ",
+            "participate in a conversation about celebrations  ",
+            "identify the Chinese characters and their meanings about celebrations ",
+            "compare and contrast different celebrations  around the world",
+            "identify elements of legends related to celebrations  ",
+            "identify and apply the use of \"-<span lang='zh-Hans'>起来</span> qǐlái\" to express \"to start to\"",
+            "identify and apply the use of \"-<span lang='zh-Hans'>坏了</span> huàile\" to express \"extremely\"  ",
+            "identify and apply the use of \"<span lang='zh-Hans'>来</span> lái\" and \"<span lang='zh-Hans'>去</span> qù\" to express \"back and forth/over and over\"  "
+          ]
+        },
+        {
+          "lessID": "03.08",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "demonstrate command of the Chinese language and related culture by orally presenting about celebrations"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "4",
+      "lessons": [
+        {
+          "lessID": "04.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about literary works",
+            "participate in a conversation about literary works",
+            "describe poets and poetry when talking about literary works",
+            "identify the Chinese characters and their meanings about literary works",
+            "identify elements of an autobiography",
+            "identify idioms",
+            "identify elements of poetry Tángshī",
+            "identify contributions from the Tang dynasty",
+            "identify and apply the use of \"<span lang='zh-Hans'>得很</span> dé hěn\" to express \"very\"",
+            "identify apply the use of \"<span lang='zh-Hans'>有的是</span> yǒudeshì\" to express \"have plenty of\" ",
+            "identify and apply the use of \"<span lang='zh-Hans'>都</span> dōu\" to express \"even\" "
+          ]
+        },
+        {
+          "lessID": "04.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about literary works",
+            "participate in a conversation about literary works",
+            "describe poets and poetry when talking about literary works",
+            "identify the Chinese characters and their meanings about literary works",
+            "identify elements of an autobiography",
+            "identify elements of Sòng cí",
+            "identify contributions from the Song dynasty",
+            "identify and apply the use of \"<span lang='zh-Hans'>看来</span> kànlái\" to express \"apparently/it seems\"",
+            "identify apply the use of \"<span lang='zh-Hans'>只好</span> zhǐhǎo/<span lang='zh-Hans'>只能</span> zhǐnéng\" to express \"have no choice but to\"",
+            "identify idioms",
+            "identify and apply the use of \"<span lang='zh-Hans'>可</span> kě …<span lang='zh-Hans'>了</span> le\" to express \"so/really\" "
+          ]
+        },
+        {
+          "lessID": "04.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "use details in a presentation about literary works from the Tang and Song dynasties",
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to literary works from the Tang and Song dynasties "
+          ]
+        },
+        {
+          "lessID": "04.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about literary works and musicals",
+            "participate in a conversation about literary works and musicals",
+            "describe poets and poetry when talking about literary works and musicals",
+            "identify the Chinese characters and their meanings about literary works and musicals",
+            "identify elements of an autobiography",
+            "identify elements of musicals yuánqǔ",
+            "identify contributions from the Yuan dynasty",
+            "identify and apply the use of \"<span lang='zh-Hans'>差点没</span> chàdiǎn méi\" to express \"almost didn’t\"",
+            "identify apply the use of \"<span lang='zh-Hans'>不管</span> bùguǎn…<span lang='zh-Hans'>反正</span> fǎnzhèng\" to express \"no matter…anyway\" ",
+            "identify idioms",
+            "identify and apply the use of \"<span lang='zh-Hans'>好(不)容易</span> hǎo(bù)róngyì + <span lang='zh-Hans'>才</span> cái \" to express \"with great\" difficulty"
+          ]
+        },
+        {
+          "lessID": "04.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "read a portion of a biography with simple sentences ",
+            "write simple sentences in Chinese ",
+            "write a portion of an autobiography in Chinese"
+          ]
+        },
+        {
+          "lessID": "04.06",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "actively participate in a basic conversation exchanging basic information in Chinese, including idioms, literary works, members of the Tang, Song, and Yuan dynasties, and contributions from the Tang, Song, and Yuan dynasties"
+          ]
+        },
+        {
+          "lessID": "04.07",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about literary works",
+            "participate in a conversation about literary works",
+            "describe poets and poetry when talking about literary works",
+            "identify the Chinese characters and their meanings about literary works",
+            "identify elements of freestyle poetry (zìyóushī)",
+            "identify contributions from the Modern Era",
+            "identify and apply the use of \"<span lang='zh-Hans'>尽管</span> jǐnguǎn\" to express \"feel free to\"",
+            "identify apply the use of \"<span lang='zh-Hans'>不得不</span> bùdébù\" to express \"have to\"",
+            "identify idioms",
+            "identify and apply the use of \"<span lang='zh-Hans'>几乎</span> jīhū\" to express \"nearly/almost\" "
+          ]
+        },
+        {
+          "lessID": "04.08",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to literary works "
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "5",
+      "lessons": [
+        {
+          "lessID": "05.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about the Yunnan Province",
+            "participate in a conversation about the Yunnan Province",
+            "identify the Chinese characters and their meanings about the Yunnan Province",
+            "compare and contrast regions around the world",
+            "identify elements of ethnic groups",
+            "identify and apply the use of \"<span lang='zh-Hans'>只要</span> zhǐyào\" to express \"as long as\"",
+            "identify apply the use of \"<span lang='zh-Hans'>只有</span> zhǐyǒu\" to express \"if only\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>即使</span> jíshǐ\" to express \"even if…still\""
+          ]
+        },
+        {
+          "lessID": "05.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about the Fujian Province",
+            "participate in a conversation about the Fujian Province",
+            "identify the Chinese characters and their meanings about the Fujian Province",
+            "compare and contrast weather, regions, and wildlife around the world",
+            "identify elements of ethnic groups",
+            "identify and apply the use of \"<span lang='zh-Hans'>就算</span> jiùsuàn\" to express \"even if…still\"",
+            "identify apply the use of \"<span lang='zh-Hans'>要是</span> yàoshì\" to express \"if… then…\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>不是</span> bùshì…<span lang='zh-Hans'>就是</span> jiùshì\" to express \"either...or\""
+          ]
+        },
+        {
+          "lessID": "05.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "use details in a presentation about the region of the Yunnan Province or the Fujian Province",
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to the region of the Yunnan Province or the Fujian Province"
+          ]
+        },
+        {
+          "lessID": "05.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about Inner Mongolia and geography",
+            "participate in a conversation about Inner Mongolia and geography",
+            "identify the Chinese characters and their meanings about Inner Mongolia and geography",
+            "compare and contrast weather, regions, and wildlife around the world",
+            "identify elements of ethnic groups",
+            "identify and apply the use of \"<span lang='zh-Hans'>不管</span> bùguǎn\" to express \"no matter…still\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>把</span> bǎ\" to express \"to regard/treat…as\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>要</span> yào\" and \"<span lang='zh-Hans'>就</span> jiù\" to express \"if…then…\""
+          ]
+        },
+        {
+          "lessID": "05.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "read a portion of a pamphlet with simple sentences",
+            "write simple sentences in Chinese"
+          ]
+        },
+        {
+          "lessID": "05.06",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "actively participate in a basic conversation exchanging basic information in Chinese, including the Yunnan Province, the Fujian Province, the Inner Mongolia, ethnic groups, regions, and geography"
+          ]
+        },
+        {
+          "lessID": "05.07",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify details in presentations about The Three Northeast Provinces",
+            "participate in a conversation about The Three Northeast Provinces",
+            "identify the Chinese characters and their meanings about The Three Northeast Provinces",
+            "identify elements of ethnic groups",
+            "identify and apply the use of \"<span lang='zh-Hans'>既</span> jì…<span lang='zh-Hans'>也</span> yě/<span lang='zh-Hans'>又</span> yòu\" to express \"both… and…\"",
+            "identify apply the use of \"<span lang='zh-Hans'>从</span> cóng…<span lang='zh-Hans'>中</span> zhōng/<span lang='zh-Hans'>里</span> lǐ\" to express \"from\"",
+            "identify and apply the use of \"<span lang='zh-Hans'>越</span> yuè…<span lang='zh-Hans'>越</span> yuè…\" to express \" the more... the more...\""
+          ]
+        },
+        {
+          "lessID": "05.08",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "demonstrate command of the Chinese language and related culture by orally presenting information related to the Yunnan Province, the Fujian Province, Inner Mongolia, the Three Northeast Provinces, ethnic groups, geography, and weather"
+          ]
+        }
+      ]
+    }
+  ]
+}
