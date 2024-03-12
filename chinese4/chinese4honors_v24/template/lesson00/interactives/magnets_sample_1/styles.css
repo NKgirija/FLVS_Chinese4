@@ -1,0 +1,64 @@
+/* use this setting if you don't sort item groups by word length */
+/*
+.ng_il .items:not(.moved) {
+    min-width: 14rem;
+    display: flex;
+    justify-content: center;
+}
+*/
+
+.ng_il .items {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ng_il .items.moved.mText p, .ng_il .items.ui-draggable-dragging.mText p {
+    padding: 5px 2px;
+}
+
+.ng_il .il_modalbtn {
+    width: auto;
+}
+
+.ng_il .il_textbtn {
+    left: 0;
+}
+
+.ng_il .il_viewport_backgrop {
+    height: 100% !important;
+}
+
+.ng_il .il_viewport_backgrop img {
+    width: auto;
+}
+
+.ng_il .navbar {
+    top: -15px;
+}
+
+.ng_il .textvers {
+    position: relative;
+}
+
+.ng_il .viewport.il_viewport.palmershell {
+    overflow: visible;
+}
+
+.ng_il .viewport.il_viewport.palmershell:not(.il_textversion) {
+    padding: 10px 0 0;
+}
+
+body .ng_il .magnets img {
+    border-radius: 10px;
+    /*max-width: 75%;*/
+}
+
+.il_textversion ul:not(.options), .il_textversion ul:not(.options) li {
+    list-style: unset;
+}
+
+@media screen and (max-width: 815px) {
+    body .ng_il .magnets img {
+        border-radius: 10px;
+    }
+}
