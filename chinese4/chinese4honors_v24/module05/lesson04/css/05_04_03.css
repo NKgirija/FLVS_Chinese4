@@ -1,0 +1,23 @@
+/* 
+@media screen and (max-width: 1070px) and (min-width: 990px) {
+    figure.effect-sarah figcaption p {
+        font-size: 14px !important;
+    }
+
+    figure.effect-sarah figcaption ul li {
+        font-size: 14px !important;
+    }
+}
+@media screen and (max-width: 990px) and (min-width: 600px) {
+    figure.effect-sarah figcaption p {
+        font-size: 9px !important;
+    }
+
+    figure.effect-sarah figcaption ul li {
+        font-size: 9px !important;
+    }
+}
+
+.fev_grid figure figcaption li, .fev_grid figure figcaption p {   
+    font-size: 15px;
+} */

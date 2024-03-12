@@ -1,0 +1,120 @@
+{
+  "config": {
+    "src": "quizmo",
+    "theme": "simplicity",
+    "css": [
+      "../../global/css/fev_mc_qus.css",
+      "interactives/01_01_02/styles.css"
+    ],
+    "intMedia": "interactives/05_04_02/intmedia/",
+    "interactiveTitle": "",
+    "showInteractive": "Show Interactive",
+    "copyright": [
+      "Shutterstock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Read or listen to each word or phrase, then complete the multiple-choice question that follows."
+      },
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_04_02/intmedia/prairie.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "prairie.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>草原</span> cǎoyuán (prairie)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what does the <strong>first</strong> character mean?</p>",
+        "answer": "Grass",
+        "options": [
+          "Flower",
+          "Leaf",
+          "Tree"
+        ],
+        "correct": "Terrifically done! In the word <span lang='zh-Hans'>草原</span> cǎoyuán (prairie), the first character, <span lang='zh-Hans'>草</span> cǎo, means \"grass,\" and the last character, <span lang='zh-Hans'>原</span> yuán, means \"original.\" You’ve got it!",
+        "incorrect": "Very close. Listen to the audio several times to identify the meaning of the word as a whole, and then break it down and consider the meaning of its first character. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<audio class='audio' controls src='interactives/05_04_02/intmedia/forest.mp3' ></audio>"
+      },
+      {
+        "_type": "localAudio",
+        "_src": "forest.mp3",
+        "_textVersion": "Audio for <span lang='zh-Hans'>森林</span> sēnlín (forest)"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Based on the audio, what can you <strong>most likely</strong> find at the place indicated by the word in the audio?</p>",
+        "answer": "<span lang='zh-Hans'>植物</span>",
+        "options": [
+          "<span lang='zh-Hans'>账单</span>",
+          "<span lang='zh-Hans'>键盘</span>",
+          "<span lang='zh-Hans'>舞台</span>"
+        ],
+        "correct": "You nailed it! The word <span lang='zh-Hans'>森林</span> sēnlín means \"forest,\" and you can most likely find plants in a forest. Very nicely done!",
+        "incorrect": "Oops. Listen to the word again to identify the meaning of the word, and then consider what you can most likely see at the place indicated by it.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>沙漠</span> shāmò"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>What does the <strong>first</strong> character mean in the word presented?</p>",
+        "answer": "Sand",
+        "options": [
+          "Water",
+          "Wind",
+          "Wood"
+        ],
+        "correct": "You got it! In the word <span lang='zh-Hans'>沙漠</span> shāmò (desert), the first character, <span lang='zh-Hans'>沙</span> shā, means \"sand,\" and the last character, <span lang='zh-Hans'>漠</span> mò, by itself, means \"desert.\" Totally awesome!",
+        "incorrect": "Not quite. Review the word again to identify its meaning and then consider the meaning of its first character.",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ],
+    [
+      {
+        "type": "config",
+        "customView": "interactives/05_04_02/customview_imgbtn.htm"
+      },
+      {
+        "type": "text",
+        "content": "<span lang='zh-Hans'>帐篷</span> zhàngpeng"
+      },
+      {
+        "type": "mc",
+        "quiz": "<p>Which image <strong>best</strong> matches the word presented?</p>",
+        "answer": "<span class='fortv'>A tent</span><img src='interactives/05_04_02/intmedia/img_2.jpg' alt='A tent' class='border center-block'>",
+        "options": [
+          "<span class='fortv'>A camping chair</span><img src='interactives/05_04_02/intmedia/img_1.jpg' alt='A camping chair' class='border center-block'>",
+          "<span class='fortv'>A sleeping bag</span><img src='interactives/05_04_02/intmedia/img_3.jpg' alt='A sleeping bag' class='border center-block'>",
+          "<span class='fortv'>A  grill</span><img src='interactives/05_04_02/intmedia/img_4.jpg' alt='A  grill' class='border center-block'>"
+        ],
+        "correct": "Job nicely done! The word <span lang='zh-Hans'>帐篷</span> zhàngpeng means \"tent,\" and you’ve selected the image that matches this word. Way to go!",
+        "incorrect": "Not quite. First you need to identify the meaning of the word, and then identify the image that matches it. You can do it!",
+        "incorrectHeading": "Incorrect",
+        "failedHeading": "Not quite, but you'll get it soon.",
+        "failed": "The answer has been filled in for you, but you're sure to get it next time."
+      }
+    ]
+  ]
+}
